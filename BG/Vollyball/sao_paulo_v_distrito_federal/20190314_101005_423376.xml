@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>763824f7-0cff-4b4e-b110-7b3a74903417</MessageGuid>
+		<TimeStampUtc>2019-03-14T10:10:05.3956797Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<Fixture>
+		<Id>5986185</Id>
+		<Name>Sao Paulo U19 v Distrito Federal U19</Name>
+		<FixtureType>Match</FixtureType>
+		<Status>Scheduled</Status>
+		<StartTimeUtc>2019-03-14T11:30:00Z</StartTimeUtc>
+		<Sport>
+			<Id>91189</Id>
+			<Name>Volleyball</Name>
+		</Sport>
+		<Competition>
+			<Id>11059</Id>
+			<Name> Brazil National State's Championships U19</Name>
+			<Region>
+				<Id>124</Id>
+				<Name>Brazil</Name>
+			</Region>
+		</Competition>
+		<Season>
+			<Id>82659</Id>
+			<Name>2019 Brazil National State's Championships U19 </Name>
+		</Season>
+		<Round>
+			<Id>475846</Id>
+			<Name>Round Robin</Name>
+		</Round>
+		<Competitors>
+			<Competitor>
+				<Id>1054217</Id>
+				<Name>Sao Paulo U19</Name>
+				<HomeAway>Home</HomeAway>
+				<Gender>Male</Gender>
+				<CompetitorType>Team</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>1054215</Id>
+				<Name>Distrito Federal U19</Name>
+				<HomeAway>Away</HomeAway>
+				<Gender>Male</Gender>
+				<CompetitorType>Team</CompetitorType>
+			</Competitor>
+		</Competitors>
+	</Fixture>
+</Updategram>
