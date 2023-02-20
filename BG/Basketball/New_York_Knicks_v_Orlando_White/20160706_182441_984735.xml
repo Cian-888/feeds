@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>aef0b589-c4c1-46b7-967e-9c054360af37</MessageGuid>
+		<TimeStampUtc>2016-07-06T18:24:41.8816758Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<ResultSet>
+		<FixtureId>4048000</FixtureId>
+		<Results>
+			<MarketResult>
+				<MarketId>100413689</MarketId>
+				<MarketSequence>0</MarketSequence>
+				<Results>
+					<SelectionResult>
+						<SelectionId>301141081</SelectionId>
+						<ResultStatus>Winner</ResultStatus>
+					</SelectionResult>
+					<SelectionResult>
+						<SelectionId>301141082</SelectionId>
+						<ResultStatus>Loser</ResultStatus>
+					</SelectionResult>
+				</Results>
+			</MarketResult>
+		</Results>
+	</ResultSet>
+</Updategram>

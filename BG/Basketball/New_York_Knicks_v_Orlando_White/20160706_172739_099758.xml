@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>1f48d78a-b7cf-48e1-b59a-b327622d0a1e</MessageGuid>
+		<TimeStampUtc>2016-07-06T17:27:38.9597851Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>163044161</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4048000</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100413201</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Closed</TradingStatus>
+				<Name>1st Quarter Money Line</Name>
+				<ExpiryUtc>2016-07-06T17:00:00</ExpiryUtc>
+				<MarketType>
+					<Id>6598</Id>
+					<Name>1st Quarter Money Line</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>301140071</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>New York Knicks</Name>
+						<CompetitorId>134847</CompetitorId>
+						<Outcome>
+							<Id>1</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100413476</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Closed</TradingStatus>
+				<Name>1st Quarter Point Spread -3.50</Name>
+				<ExpiryUtc>2016-07-06T17:00:00</ExpiryUtc>
+				<Handicap>-3.50</Handicap>
+				<MarketType>
+					<Id>6603</Id>
+					<Name>1st Quarter Point Spread</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>301140645</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>New York Knicks</Name>
+						<CompetitorId>134847</CompetitorId>
+						<Outcome>
+							<Id>4</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>301140646</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Orlando White</Name>
+						<CompetitorId>825504</CompetitorId>
+						<Outcome>
+							<Id>5</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100413380</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Closed</TradingStatus>
+				<Name>1st Quarter Total Points Over/Under 43.50</Name>
+				<ExpiryUtc>2016-07-06T17:00:00</ExpiryUtc>
+				<Handicap>43.50</Handicap>
+				<MarketType>
+					<Id>6736</Id>
+					<Name>1st Quarter Total Points Over/Under</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>301140453</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Over</Name>
+						<Outcome>
+							<Id>30</Id>
+							<Name>Over</Name>
+						</Outcome>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>301140454</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Under</Name>
+						<Outcome>
+							<Id>31</Id>
+							<Name>Under</Name>
+						</Outcome>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100413209</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Closed</TradingStatus>
+				<Name>1st Quarter Result</Name>
+				<ExpiryUtc>2016-07-06T17:00:00</ExpiryUtc>
+				<MarketType>
+					<Id>6950</Id>
+					<Name>1st Quarter Result</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections />
+			</Market>
+			<Market>
+				<Id>100413212</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Closed</TradingStatus>
+				<Name>1st Quarter Odd or Even Total Points</Name>
+				<ExpiryUtc>2016-07-06T17:00:00</ExpiryUtc>
+				<MarketType>
+					<Id>7411</Id>
+					<Name>1st Quarter Odd or Even Total Points</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>301140095</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Odd</Name>
+						<Outcome>
+							<Id>33</Id>
+							<Name>Odd</Name>
+						</Outcome>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>301140094</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Even</Name>
+						<Outcome>
+							<Id>32</Id>
+							<Name>Even</Name>
+						</Outcome>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

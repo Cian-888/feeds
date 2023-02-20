@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>d21b53d0-3f8f-45eb-9a07-5eeeb18f9b6a</MessageGuid>
+		<TimeStampUtc>2016-07-05T13:07:03.5316247Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<Fixture>
+		<Id>4048000</Id>
+		<Name>New York Knicks v Orlando White</Name>
+		<FixtureType>Match</FixtureType>
+		<Status>Scheduled</Status>
+		<StartTimeUtc>2016-07-06T17:00:00Z</StartTimeUtc>
+		<Sport>
+			<Id>4</Id>
+			<Name>Basketball</Name>
+		</Sport>
+		<Competition>
+			<Id>2155</Id>
+			<Name>NBA Summer League</Name>
+			<Region>
+				<Id>140</Id>
+				<Name>United States of America</Name>
+			</Region>
+		</Competition>
+		<Season>
+			<Id>55467</Id>
+			<Name>NBA Summer League 2016</Name>
+		</Season>
+		<Round>
+			<Id>282049</Id>
+			<Name>Regular Season</Name>
+		</Round>
+		<Competitors>
+			<Competitor>
+				<Id>134847</Id>
+				<Name>New York Knicks</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<Gender>Male</Gender>
+				<CompetitorType>Team</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>825504</Id>
+				<Name>Orlando White</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<Gender>Male</Gender>
+				<CompetitorType>Team</CompetitorType>
+			</Competitor>
+		</Competitors>
+	</Fixture>
+</Updategram>

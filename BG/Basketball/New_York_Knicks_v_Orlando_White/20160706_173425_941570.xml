@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>0d7df271-9ca3-44af-bf09-989fe03c3349</MessageGuid>
+		<TimeStampUtc>2016-07-06T17:34:25.8507475Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>163044192</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4048000</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100413387</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Away Team Points Over/Under 83.50</Name>
+				<ExpiryUtc>2016-07-06T17:00:00Z</ExpiryUtc>
+				<Handicap>83.5</Handicap>
+				<MarketType>
+					<Id>8422</Id>
+					<Name>Away Team Points Over/Under</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>301140467</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Over</Name>
+						<Outcome>
+							<Id>30</Id>
+							<Name>Over</Name>
+						</Outcome>
+						<Numerator>17</Numerator>
+						<Denominator>20</Denominator>
+						<Decimal>1.85</Decimal>
+					</Selection>
+					<Selection>
+						<Id>301140468</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Under</Name>
+						<Outcome>
+							<Id>31</Id>
+							<Name>Under</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>2.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

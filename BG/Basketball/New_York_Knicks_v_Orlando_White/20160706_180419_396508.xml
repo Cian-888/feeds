@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>83ed2a7a-e218-4043-90ba-2d9c5b42edcc</MessageGuid>
+		<TimeStampUtc>2016-07-06T18:04:19.2465425Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>163044289</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4048000</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100413544</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Suspended</TradingStatus>
+				<Name>3rd Quarter Race To 5 Points</Name>
+				<ExpiryUtc>2016-07-06T17:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>11751</Id>
+					<Name>3rd Quarter Race To 5 Points</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>301140782</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>New York Knicks</Name>
+						<CompetitorId>134847</CompetitorId>
+						<Outcome>
+							<Id>1</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>4</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>1.8</Decimal>
+					</Selection>
+					<Selection>
+						<Id>301140784</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Orlando White</Name>
+						<CompetitorId>825504</CompetitorId>
+						<Outcome>
+							<Id>3</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>5</Numerator>
+						<Denominator>6</Denominator>
+						<Decimal>1.8333</Decimal>
+					</Selection>
+					<Selection>
+						<Id>301140783</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Neither</Name>
+						<Outcome>
+							<Id>2</Id>
+							<Name>Neither</Name>
+						</Outcome>
+						<Numerator>500</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>501.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>
