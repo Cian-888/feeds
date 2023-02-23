@@ -1,0 +1,50 @@
+{
+    "id": "1711150437350100014",
+    "version": 1,
+    "timestamp": "2017-11-15 04:37:35",
+    "categoryId": "1711110832200100001",
+    "eventId": "1711111025470100165",
+    "market": "GolfGame",
+    "marketId": "1710220109540100458",
+    "selectionId": "0",
+    "oper": "SetPrices",
+    "data": [
+        {
+            "odds": 40.5,
+            "id": "1711111025470100316",
+            "status": "Open",
+            "fracOdds": "7/5"
+        },
+        {
+            "odds": 40.5,
+            "id": "1711111025470100315",
+            "status": "Open",
+            "fracOdds": "9/4"
+        }
+    ],
+    "categoryIds": [
+        "0",
+        "3",
+        "1607111657050100001",
+        "1711110829560100001",
+        "1711110832200100001"
+    ],
+    "categoryNames": [
+        "root",
+        "Golf",
+        "PGA Tour",
+        "RSM Classic",
+        "1st Round"
+    ],
+    "categoryTypes": [
+        "null",
+        "Sport",
+        "Tour",
+        "Tournament",
+        "Round"
+    ],
+    "gameClock": -1,
+    "feeder": null,
+    "feedersId": null,
+    "listenerId": "1608091838210100001"
+}

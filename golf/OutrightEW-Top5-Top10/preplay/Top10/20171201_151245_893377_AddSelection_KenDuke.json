@@ -1,0 +1,65 @@
+{
+    "id": "1711140931100100019",
+    "version": 1,
+    "timestamp": "2017-11-14 09:31:10",
+    "categoryId": "1711110829560100001",
+    "eventId": "1711111025470100165",
+    "market": "Outright",
+    "marketId": "1710220109540100458",
+    "selectionId": "1711140931100100016",
+    "oper": "AddSelection",
+    "data": {
+        "id": "1711140931100100016",
+        "name": "Ken Duke",
+        "idName": "EachWayPlayer",
+        "shortName": "Ken Duke",
+        "rawName": "#{PLAYER}",
+        "participantId": "1504121558290100001",
+        "eventId": "1711111025470100165",
+        "marketId": "1710220109540100458",
+        "status": "Open",
+        "hcp": 0.0,
+        "odds": 10.01,
+        "result": "Lose",
+        "winFactor": 0.0,
+        "sequence": 153,
+        "outcomes": null,
+        "ffPrice": "0",
+        "ddPrice": "0",
+        "bbPrice": "0",
+        "spPrice": "0",
+        "rotNo": null,
+        "scoredAt": null,
+        "scoredAtGameClock": 0,
+        "tags": [
+            null,
+            null
+        ],
+        "place": null,
+        "type": null,
+        "cancelledAt": null,
+        "fracOdds": "1/100"
+    },
+    "categoryIds": [
+        "0",
+        "3",
+        "1607111657050100001",
+        "1711110829560100001"
+    ],
+    "categoryNames": [
+        "root",
+        "Golf",
+        "PGA Tour",
+        "RSM Classic"
+    ],
+    "categoryTypes": [
+        "null",
+        "Sport",
+        "Tour",
+        "Tournament"
+    ],
+    "gameClock": -1,
+    "feeder": null,
+    "feedersId": null,
+    "listenerId": "1608091838210100001"
+}
