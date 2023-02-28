@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>eedb0219-a3da-4ddb-b6c4-3d5836de291b</MessageGuid>
+		<TimeStampUtc>2020-12-09T01:05:22.5065152Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<Fixture>
+		<Id>7638505</Id>
+		<Name>Baltimore Ravens v Dallas Cowboys</Name>
+		<FixtureType>Match</FixtureType>
+		<Status>Scheduled</Status>
+		<StartTimeUtc>2020-12-09T01:05:00Z</StartTimeUtc>
+		<Sport>
+			<Id>17</Id>
+			<Name>American Football</Name>
+		</Sport>
+		<Competition>
+			<Id>296</Id>
+			<Name>NFL</Name>
+			<Region>
+				<Id>140</Id>
+				<Name>United States of America</Name>
+			</Region>
+		</Competition>
+		<Season>
+			<Id>96307</Id>
+			<Name>2020/2021 NFL</Name>
+		</Season>
+		<Round>
+			<Id>558363</Id>
+			<Name>Week 13</Name>
+		</Round>
+		<Competitors>
+			<Competitor>
+				<Id>93331</Id>
+				<Name>Baltimore Ravens</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors>
+					<Competitor>
+						<Id>162287</Id>
+						<Name>Koch, S</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Sam</FirstName>
+						<LastName>Koch</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>577692</Id>
+						<Name>Cox, Morgan</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Morgan</FirstName>
+						<LastName>Cox</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>577722</Id>
+						<Name>Smith, Jimmy</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Jimmy</FirstName>
+						<LastName>Smith</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>586182</Id>
+						<Name>Levine Sr., A</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Anthony</FirstName>
+						<LastName>Levine Sr.</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>757800</Id>
+						<Name>Williams, Brandon</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Brandon</FirstName>
+						<LastName>Williams</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>719237</Id>
+						<Name>Tucker, Justin</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Justin</FirstName>
+						<LastName>Tucker</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>940760</Id>
+						<Name>Judon, M</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Matthew</FirstName>
+						<LastName>Judon</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>940762</Id>
+						<Name>Moore, Chris</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Chris</FirstName>
+						<LastName>Moore</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>940764</Id>
+						<Name>Stanley, R</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Ronnie</FirstName>
+						<LastName>Stanley</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>940765</Id>
+						<Name>Young, Tavon</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Tavon</FirstName>
+						<LastName>Young</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998782</Id>
+						<Name>Bowser, T</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Tyus</FirstName>
+						<LastName>Bowser</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835473</Id>
+						<Name>Boyle, N</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Nick</FirstName>
+						<LastName>Boyle</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998788</Id>
+						<Name>Clark, Chuck</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Chuck</FirstName>
+						<LastName>Clark</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998796</Id>
+						<Name>Humphrey, M</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Marlon</FirstName>
+						<LastName>Humphrey</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998824</Id>
+						<Name>Ricard, P</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Patrick</FirstName>
+						<LastName>Ricard</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998830</Id>
+						<Name>Skura, M</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Matt</FirstName>
+						<LastName>Skura</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013950</Id>
+						<Name>Andrews, M</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Mark</FirstName>
+						<LastName>Andrews</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1014960</Id>
+						<Name>Averett, A</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Anthony</FirstName>
+						<LastName>Averett</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1005520</Id>
+						<Name>Board, Chris</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Chris</FirstName>
+						<LastName>Board</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1015013</Id>
+						<Name>Bozeman, B</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Bradley</FirstName>
+						<LastName>Bozeman</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013947</Id>
+						<Name>Brown Jr., O</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Orlando</FirstName>
+						<LastName>Brown Jr.</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1028479</Id>
+						<Name>Edwards, G</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Gus</FirstName>
+						<LastName>Edwards</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1007129</Id>
+						<Name>Elliott, DeShon</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>DeShon</FirstName>
+						<LastName>Elliott</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>493257</Id>
+						<Name>Griffin, R</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Robert</FirstName>
+						<LastName>Griffin</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1012102</Id>
+						<Name>Jackson, Lamar</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Lamar</FirstName>
+						<LastName>Jackson</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835907</Id>
+						<Name>Snead IV, W</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Willie</FirstName>
+						<LastName>Snead IV</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1010642</Id>
+						<Name>Bonds, T</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Terrell</FirstName>
+						<LastName>Bonds</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013865</Id>
+						<Name>Brown, Marquise</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Marquise</FirstName>
+						<LastName>Brown</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1021009</Id>
+						<Name>Ferguson, Jaylon</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Jaylon</FirstName>
+						<LastName>Ferguson</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013642</Id>
+						<Name>Hill, Justice</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Justice</FirstName>
+						<LastName>Hill</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>578651</Id>
+						<Name>Ingram II, M</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Mark</FirstName>
+						<LastName>Ingram II</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>577710</Id>
+						<Name>McPhee, P</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Pernell</FirstName>
+						<LastName>McPhee</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1007944</Id>
+						<Name>McSorley, T</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Trace</FirstName>
+						<LastName>McSorley</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1008844</Id>
+						<Name>Mekari, P</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Patrick</FirstName>
+						<LastName>Mekari</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013942</Id>
+						<Name>Powers, B</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Ben</FirstName>
+						<LastName>Powers</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1016372</Id>
+						<Name>Prince, R</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>R.J.</FirstName>
+						<LastName>Prince</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1009895</Id>
+						<Name>Boykin, Miles</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Miles</FirstName>
+						<LastName>Boykin</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1010753</Id>
+						<Name>Marshall, I</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Iman</FirstName>
+						<LastName>Marshall</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>719280</Id>
+						<Name>Fort, L</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>L.J.</FirstName>
+						<LastName>Fort</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1147310</Id>
+						<Name>Peters, Marcus</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Marcus</FirstName>
+						<LastName>Peters</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835737</Id>
+						<Name>Richards, J</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Jordan</FirstName>
+						<LastName>Richards</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>797048</Id>
+						<Name>Ellis, J</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Justin</FirstName>
+						<LastName>Ellis</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941268</Id>
+						<Name>Ehinger, P</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Parker</FirstName>
+						<LastName>Ehinger</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1008248</Id>
+						<Name>Bredeson, B</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Ben</FirstName>
+						<LastName>Bredeson</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>444395</Id>
+						<Name>Campbell, C</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Calais</FirstName>
+						<LastName>Campbell</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1014495</Id>
+						<Name>Colon-Castillo, T</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Trystan</FirstName>
+						<LastName>Colon-Castillo</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1005289</Id>
+						<Name>Dobbins, J</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>J.K.</FirstName>
+						<LastName>Dobbins</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1233204</Id>
+						<Name>Dorsey, Khalil</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Khalil</FirstName>
+						<LastName>Dorsey</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1007135</Id>
+						<Name>Duvernay, D</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Devin</FirstName>
+						<LastName>Duvernay</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>757966</Id>
+						<Name>Fluker, D.J.</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>D.J.</FirstName>
+						<LastName>Fluker</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1005385</Id>
+						<Name>Harrison, Malik</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Malik</FirstName>
+						<LastName>Harrison</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1017093</Id>
+						<Name>Huntley, T</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Tyler</FirstName>
+						<LastName>Huntley</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013821</Id>
+						<Name>Madubuike, J</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Justin</FirstName>
+						<LastName>Madubuike</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1012829</Id>
+						<Name>Phillips, Tyre</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Tyre</FirstName>
+						<LastName>Phillips</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1009108</Id>
+						<Name>Proche, J</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>James</FirstName>
+						<LastName>Proche</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1016868</Id>
+						<Name>Queen, P</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Patrick</FirstName>
+						<LastName>Queen</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1006837</Id>
+						<Name>Stone, G</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Geno</FirstName>
+						<LastName>Stone</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1019655</Id>
+						<Name>Ward, Jihad</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Jihad</FirstName>
+						<LastName>Ward</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1233208</Id>
+						<Name>Washington, Broderick</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Broderick</FirstName>
+						<LastName>Washington</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1006916</Id>
+						<Name>Welch, K</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Kristian</FirstName>
+						<LastName>Welch</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>719359</Id>
+						<Name>Wolfe, D</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Derek</FirstName>
+						<LastName>Wolfe</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941442</Id>
+						<Name>Ngakoue, Y</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Yannick</FirstName>
+						<LastName>Ngakoue</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>578582</Id>
+						<Name>Bryant, Dez</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Dez</FirstName>
+						<LastName>Bryant</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>165550</Id>
+						<Name>Williams, Tramon</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Tramon</FirstName>
+						<LastName>Williams</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1071904</Id>
+						<Name>Harris, Davontae</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Davontae</FirstName>
+						<LastName>Harris</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>757793</Id>
+						<Name>Willson, L</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Luke</FirstName>
+						<LastName>Willson</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>865463</Id>
+						<Name>Wilson, L</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Luke</FirstName>
+						<LastName>Wilson</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>758008</Id>
+						<Name>Bohanon, T</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Tommy</FirstName>
+						<LastName>Bohanon</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1012855</Id>
+						<Name>Hoyett, B</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Braxton</FirstName>
+						<LastName>Hoyett</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999315</Id>
+						<Name>Culkin, S</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Sean</FirstName>
+						<LastName>Culkin</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+				</Competitors>
+				<CompetitorType>Team</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>96760</Id>
+				<Name>Dallas Cowboys</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors>
+					<Competitor>
+						<Id>444379</Id>
+						<Name>LaDouceur, LP</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>LP</FirstName>
+						<LastName>LaDouceur</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>581336</Id>
+						<Name>Jones, C</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Chris</FirstName>
+						<LastName>Jones</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>578611</Id>
+						<Name>Lee, S</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Sean</FirstName>
+						<LastName>Lee</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>796702</Id>
+						<Name>Lawrence, D</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>DeMarcus</FirstName>
+						<LastName>Lawrence</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>796703</Id>
+						<Name>Martin, Z</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Zack</FirstName>
+						<LastName>Martin</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835561</Id>
+						<Name>Gregory, R</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Randy</FirstName>
+						<LastName>Gregory</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941044</Id>
+						<Name>Brown, Anthony</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Anthony</FirstName>
+						<LastName>Brown</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941046</Id>
+						<Name>Elliott, E</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Ezekiel</FirstName>
+						<LastName>Elliott</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>719345</Id>
+						<Name>Looney, J</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Joe</FirstName>
+						<LastName>Looney</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941060</Id>
+						<Name>Prescott, D</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Dak</FirstName>
+						<LastName>Prescott</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999653</Id>
+						<Name>Awuzie, C</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Chidobe</FirstName>
+						<LastName>Awuzie</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999662</Id>
+						<Name>Brown, N</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Noah</FirstName>
+						<LastName>Brown</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835560</Id>
+						<Name>Collins, L</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>La'el</FirstName>
+						<LastName>Collins</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999697</Id>
+						<Name>Jarwin, B</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Blake</FirstName>
+						<LastName>Jarwin</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999707</Id>
+						<Name>Lewis, Jourdan</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Jourdan</FirstName>
+						<LastName>Lewis</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999716</Id>
+						<Name>Rush, C</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Cooper</FirstName>
+						<LastName>Rush</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999722</Id>
+						<Name>Smith, Jaylon</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Jaylon</FirstName>
+						<LastName>Smith</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999735</Id>
+						<Name>Woods, X</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Xavier</FirstName>
+						<LastName>Woods</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1014810</Id>
+						<Name>Armstrong Jr., D</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Dorance</FirstName>
+						<LastName>Armstrong Jr.</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1002936</Id>
+						<Name>Schultz, D</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Dalton</FirstName>
+						<LastName>Schultz</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>837731</Id>
+						<Name>Thomas, Joe</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Joe</FirstName>
+						<LastName>Thomas</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1010578</Id>
+						<Name>Vander Esch, L</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Leighton</FirstName>
+						<LastName>Vander Esch</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1007219</Id>
+						<Name>Williams, Connor</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Connor</FirstName>
+						<LastName>Williams</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1010526</Id>
+						<Name>Wilson, C</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Cedrick</FirstName>
+						<LastName>Wilson</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>964175</Id>
+						<Name>Woods, Antwaun</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Antwaun</FirstName>
+						<LastName>Woods</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1002721</Id>
+						<Name>Gallup, M</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Michael</FirstName>
+						<LastName>Gallup</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998431</Id>
+						<Name>Redmond, A</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Adam</FirstName>
+						<LastName>Redmond</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>832564</Id>
+						<Name>Goodwin, C</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>C.J.</FirstName>
+						<LastName>Goodwin</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941510</Id>
+						<Name>Thompson, Darian</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Darian</FirstName>
+						<LastName>Thompson</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835914</Id>
+						<Name>Cooper, A</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Amari</FirstName>
+						<LastName>Cooper</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1012338</Id>
+						<Name>Gifford, L</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Luke</FirstName>
+						<LastName>Gifford</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1008860</Id>
+						<Name>Hill, Trysten</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Trysten</FirstName>
+						<LastName>Hill</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1005090</Id>
+						<Name>Knight, B</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Brandon</FirstName>
+						<LastName>Knight</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1005525</Id>
+						<Name>Pollard, T</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Tony</FirstName>
+						<LastName>Pollard</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013763</Id>
+						<Name>Wilson, Donovan</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Donovan</FirstName>
+						<LastName>Wilson</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1008001</Id>
+						<Name>McGovern, C</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Connor</FirstName>
+						<LastName>McGovern</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>444221</Id>
+						<Name>Hamilton, J</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Justin</FirstName>
+						<LastName>Hamilton</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998966</Id>
+						<Name>Burton, D</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Deante</FirstName>
+						<LastName>Burton</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1017164</Id>
+						<Name>Anae, B</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Bradlee</FirstName>
+						<LastName>Anae</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835966</Id>
+						<Name>Bell, Blake</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Blake</FirstName>
+						<LastName>Bell</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1017501</Id>
+						<Name>Biadasz, T</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Tyler</FirstName>
+						<LastName>Biadasz</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>577806</Id>
+						<Name>Dalton, A</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Andy</FirstName>
+						<LastName>Dalton</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1014930</Id>
+						<Name>Diggs, T</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Trevon</FirstName>
+						<LastName>Diggs</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1016518</Id>
+						<Name>Dinucci, B</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Ben</FirstName>
+						<LastName>Dinucci</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013418</Id>
+						<Name>Dowdle, R</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Rico</FirstName>
+						<LastName>Dowdle</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835554</Id>
+						<Name>Erving, C</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Cameron</FirstName>
+						<LastName>Erving</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013960</Id>
+						<Name>Gallimore, N</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Neville</FirstName>
+						<LastName>Gallimore</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013871</Id>
+						<Name>Lamb, CeeDee</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>CeeDee</FirstName>
+						<LastName>Lamb</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1008265</Id>
+						<Name>McKeon, S</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Sean</FirstName>
+						<LastName>McKeon</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1014188</Id>
+						<Name>Robinson II, R</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Reggie</FirstName>
+						<LastName>Robinson II</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>577838</Id>
+						<Name>Smith, Aldon</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Aldon</FirstName>
+						<LastName>Smith</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1014364</Id>
+						<Name>Steele, T</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Terence</FirstName>
+						<LastName>Steele</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1007809</Id>
+						<Name>Turner, Malik</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Malik</FirstName>
+						<LastName>Turner</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>719316</Id>
+						<Name>Zuerlein, G</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Greg</FirstName>
+						<LastName>Zuerlein</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941282</Id>
+						<Name>March, J</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Justin</FirstName>
+						<LastName>March</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998754</Id>
+						<Name>Smith, Eric</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Eric</FirstName>
+						<LastName>Smith</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1024271</Id>
+						<Name>Senat, G</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Greg</FirstName>
+						<LastName>Senat</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1002715</Id>
+						<Name>Bernard, F</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Francis</FirstName>
+						<LastName>Bernard</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1131099</Id>
+						<Name>Henry, Marcus</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Marcus</FirstName>
+						<LastName>Henry</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998769</Id>
+						<Name>Gilbert, G</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Garrett</FirstName>
+						<LastName>Gilbert</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013875</Id>
+						<Name>Parker, Steven</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Steven</FirstName>
+						<LastName>Parker</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>758014</Id>
+						<Name>Mills, J</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Jordan</FirstName>
+						<LastName>Mills</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999138</Id>
+						<Name>Ankou, E</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Eli</FirstName>
+						<LastName>Ankou</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1017028</Id>
+						<Name>Olonilua, S</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Sewo</FirstName>
+						<LastName>Olonilua</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1008327</Id>
+						<Name>Niswander, H</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Hunter</FirstName>
+						<LastName>Niswander</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1077239</Id>
+						<Name>Carter, Ron'Dell</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Ron'Dell</FirstName>
+						<LastName>Carter</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941563</Id>
+						<Name>Robinson, Rashard</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Rashard</FirstName>
+						<LastName>Robinson</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+				</Competitors>
+				<CompetitorType>Team</CompetitorType>
+			</Competitor>
+		</Competitors>
+	</Fixture>
+</Updategram>

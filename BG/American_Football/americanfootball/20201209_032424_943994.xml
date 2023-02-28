@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>bfd62960-8fb5-4a42-83e2-c172a2669d0c</MessageGuid>
+		<TimeStampUtc>2020-12-09T03:24:24.7820033Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>297255986</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>7638505</FixtureId>
+		<Markets>
+			<Market>
+				<Id>107038740</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Suspended</TradingStatus>
+				<Name>Home Team Total Points (Odd/Even)</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>10622</Id>
+					<Name>Home Team Total Points (Odd/Even)</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324545313</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Odd</Name>
+						<Outcome>
+							<Id>33</Id>
+							<Name>Odd</Name>
+						</Outcome>
+						<Numerator>3</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>1.75</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324545312</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Even</Name>
+						<Outcome>
+							<Id>32</Id>
+							<Name>Even</Name>
+						</Outcome>
+						<Numerator>21</Numerator>
+						<Denominator>20</Denominator>
+						<Decimal>2.05</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

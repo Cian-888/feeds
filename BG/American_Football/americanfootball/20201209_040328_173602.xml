@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>b2053439-34ba-4ea3-a5bd-2f76509dbf76</MessageGuid>
+		<TimeStampUtc>2020-12-09T04:03:27.9395706Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>297256177</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>7638505</FixtureId>
+		<Markets>
+			<Market>
+				<Id>107038753</Id>
+				<Sequence>7</Sequence>
+				<TradingStatus>Suspended</TradingStatus>
+				<Name>Team to Score Seventh Touchdown</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>12860</Id>
+					<Name>Team to Score Next Touchdown</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324545338</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Baltimore Ravens</Name>
+						<CompetitorId>93331</CompetitorId>
+						<Outcome>
+							<Id>1</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>12</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>13.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324545339</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dallas Cowboys</Name>
+						<CompetitorId>96760</CompetitorId>
+						<Outcome>
+							<Id>3</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>11</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>12.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324545340</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>No Touchdown</Name>
+						<Outcome>
+							<Id>83</Id>
+							<Name>No Touchdown</Name>
+						</Outcome>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

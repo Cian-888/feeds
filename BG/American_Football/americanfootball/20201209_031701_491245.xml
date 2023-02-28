@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>4553f816-ca2e-49ee-b042-96a3ab682f26</MessageGuid>
+		<TimeStampUtc>2020-12-09T03:17:01.3004728Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>297255935</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>7638505</FixtureId>
+		<Markets>
+			<Market>
+				<Id>107038736</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>4th Quarter Result</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>9484</Id>
+					<Name>4th Quarter Result</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324545302</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Baltimore Ravens</Name>
+						<CompetitorId>93331</CompetitorId>
+						<Outcome>
+							<Id>1</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>6</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>2.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324545303</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw</Name>
+						<Outcome>
+							<Id>2</Id>
+							<Name>Draw</Name>
+						</Outcome>
+						<Numerator>5</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>6.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324545304</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dallas Cowboys</Name>
+						<CompetitorId>96760</CompetitorId>
+						<Outcome>
+							<Id>3</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>4</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>1.8</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>107039467</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>4th Quarter Home Team Totals Over/Under 6.50</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<Handicap>6.50</Handicap>
+				<MarketType>
+					<Id>11647</Id>
+					<Name>4th Quarter Home Team Totals Over/Under</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324546787</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Over</Name>
+						<Outcome>
+							<Id>30</Id>
+							<Name>Over</Name>
+						</Outcome>
+						<Numerator>3</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>1.75</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324546788</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Under</Name>
+						<Outcome>
+							<Id>31</Id>
+							<Name>Under</Name>
+						</Outcome>
+						<Numerator>21</Numerator>
+						<Denominator>20</Denominator>
+						<Decimal>2.05</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

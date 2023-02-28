@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>a0c01f67-5d1a-423a-b822-b5c229d8ef59</MessageGuid>
+		<TimeStampUtc>2020-12-06T06:15:39.0128166Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<Fixture>
+		<Id>7638505</Id>
+		<Name>Baltimore Ravens v Dallas Cowboys</Name>
+		<FixtureType>Match</FixtureType>
+		<Status>Scheduled</Status>
+		<StartTimeUtc>2020-12-09T01:05:00Z</StartTimeUtc>
+		<Sport>
+			<Id>17</Id>
+			<Name>American Football</Name>
+		</Sport>
+		<Competition>
+			<Id>296</Id>
+			<Name>NFL</Name>
+			<Region>
+				<Id>140</Id>
+				<Name>United States of America</Name>
+			</Region>
+		</Competition>
+		<Season>
+			<Id>96307</Id>
+			<Name>2020/2021 NFL</Name>
+		</Season>
+		<Round>
+			<Id>558363</Id>
+			<Name>Week 13</Name>
+		</Round>
+		<Competitors>
+			<Competitor>
+				<Id>93331</Id>
+				<Name>Baltimore Ravens</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors>
+					<Competitor>
+						<Id>162287</Id>
+						<Name>Koch, S</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Sam</FirstName>
+						<LastName>Koch</LastName>
+						<SquadNumber>4</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>577692</Id>
+						<Name>Cox, Morgan</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Morgan</FirstName>
+						<LastName>Cox</LastName>
+						<SquadNumber>46</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>577722</Id>
+						<Name>Smith, Jimmy</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Jimmy</FirstName>
+						<LastName>Smith</LastName>
+						<SquadNumber>22</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>586182</Id>
+						<Name>Levine Sr., A</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Anthony</FirstName>
+						<LastName>Levine Sr.</LastName>
+						<SquadNumber>41</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>757800</Id>
+						<Name>Williams, Brandon</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Brandon</FirstName>
+						<LastName>Williams</LastName>
+						<SquadNumber>98</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>719237</Id>
+						<Name>Tucker, Justin</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Justin</FirstName>
+						<LastName>Tucker</LastName>
+						<SquadNumber>9</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>940760</Id>
+						<Name>Judon, M</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Matthew</FirstName>
+						<LastName>Judon</LastName>
+						<SquadNumber>99</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>940762</Id>
+						<Name>Moore, Chris</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Chris</FirstName>
+						<LastName>Moore</LastName>
+						<SquadNumber>10</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>940764</Id>
+						<Name>Stanley, R</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Ronnie</FirstName>
+						<LastName>Stanley</LastName>
+						<SquadNumber>79</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>940765</Id>
+						<Name>Young, Tavon</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Tavon</FirstName>
+						<LastName>Young</LastName>
+						<SquadNumber>25</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998782</Id>
+						<Name>Bowser, T</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Tyus</FirstName>
+						<LastName>Bowser</LastName>
+						<SquadNumber>54</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835473</Id>
+						<Name>Boyle, N</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Nick</FirstName>
+						<LastName>Boyle</LastName>
+						<SquadNumber>86</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998788</Id>
+						<Name>Clark, Chuck</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Chuck</FirstName>
+						<LastName>Clark</LastName>
+						<SquadNumber>36</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998796</Id>
+						<Name>Humphrey, M</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Marlon</FirstName>
+						<LastName>Humphrey</LastName>
+						<SquadNumber>44</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998824</Id>
+						<Name>Ricard, P</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Patrick</FirstName>
+						<LastName>Ricard</LastName>
+						<SquadNumber>42</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998830</Id>
+						<Name>Skura, M</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Matt</FirstName>
+						<LastName>Skura</LastName>
+						<SquadNumber>68</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013950</Id>
+						<Name>Andrews, M</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Mark</FirstName>
+						<LastName>Andrews</LastName>
+						<SquadNumber>89</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1014960</Id>
+						<Name>Averett, A</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Anthony</FirstName>
+						<LastName>Averett</LastName>
+						<SquadNumber>34</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1005520</Id>
+						<Name>Board, Chris</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Chris</FirstName>
+						<LastName>Board</LastName>
+						<SquadNumber>49</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1015013</Id>
+						<Name>Bozeman, B</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Bradley</FirstName>
+						<LastName>Bozeman</LastName>
+						<SquadNumber>77</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013947</Id>
+						<Name>Brown Jr., O</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Orlando</FirstName>
+						<LastName>Brown Jr.</LastName>
+						<SquadNumber>78</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1028479</Id>
+						<Name>Edwards, G</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Gus</FirstName>
+						<LastName>Edwards</LastName>
+						<SquadNumber>35</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1007129</Id>
+						<Name>Elliott, DeShon</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>DeShon</FirstName>
+						<LastName>Elliott</LastName>
+						<SquadNumber>21</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>493257</Id>
+						<Name>Griffin, R</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Robert</FirstName>
+						<LastName>Griffin</LastName>
+						<SquadNumber>3</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1012102</Id>
+						<Name>Jackson, Lamar</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Lamar</FirstName>
+						<LastName>Jackson</LastName>
+						<SquadNumber>8</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835907</Id>
+						<Name>Snead IV, W</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Willie</FirstName>
+						<LastName>Snead IV</LastName>
+						<SquadNumber>83</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1010642</Id>
+						<Name>Bonds, T</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Terrell</FirstName>
+						<LastName>Bonds</LastName>
+						<SquadNumber>39</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013865</Id>
+						<Name>Brown, Marquise</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Marquise</FirstName>
+						<LastName>Brown</LastName>
+						<SquadNumber>15</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1021009</Id>
+						<Name>Ferguson, Jaylon</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Jaylon</FirstName>
+						<LastName>Ferguson</LastName>
+						<SquadNumber>45</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013642</Id>
+						<Name>Hill, Justice</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Justice</FirstName>
+						<LastName>Hill</LastName>
+						<SquadNumber>43</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>578651</Id>
+						<Name>Ingram II, M</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Mark</FirstName>
+						<LastName>Ingram II</LastName>
+						<SquadNumber>21</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>577710</Id>
+						<Name>McPhee, P</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Pernell</FirstName>
+						<LastName>McPhee</LastName>
+						<SquadNumber>90</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1007944</Id>
+						<Name>McSorley, T</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Trace</FirstName>
+						<LastName>McSorley</LastName>
+						<SquadNumber>7</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1008844</Id>
+						<Name>Mekari, P</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Patrick</FirstName>
+						<LastName>Mekari</LastName>
+						<SquadNumber>65</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013942</Id>
+						<Name>Powers, B</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Ben</FirstName>
+						<LastName>Powers</LastName>
+						<SquadNumber>72</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1016372</Id>
+						<Name>Prince, R</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>R.J.</FirstName>
+						<LastName>Prince</LastName>
+						<SquadNumber>61</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1009895</Id>
+						<Name>Boykin, Miles</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Miles</FirstName>
+						<LastName>Boykin</LastName>
+						<SquadNumber>80</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1010753</Id>
+						<Name>Marshall, I</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Iman</FirstName>
+						<LastName>Marshall</LastName>
+						<SquadNumber>37</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>719280</Id>
+						<Name>Fort, L</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>L.J.</FirstName>
+						<LastName>Fort</LastName>
+						<SquadNumber>58</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1147310</Id>
+						<Name>Peters, Marcus</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Marcus</FirstName>
+						<LastName>Peters</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835737</Id>
+						<Name>Richards, J</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Jordan</FirstName>
+						<LastName>Richards</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>797048</Id>
+						<Name>Ellis, J</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Justin</FirstName>
+						<LastName>Ellis</LastName>
+						<SquadNumber>71</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941268</Id>
+						<Name>Ehinger, P</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Parker</FirstName>
+						<LastName>Ehinger</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1008248</Id>
+						<Name>Bredeson, B</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Ben</FirstName>
+						<LastName>Bredeson</LastName>
+						<SquadNumber>67</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>444395</Id>
+						<Name>Campbell, C</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Calais</FirstName>
+						<LastName>Campbell</LastName>
+						<SquadNumber>93</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1014495</Id>
+						<Name>Colon-Castillo, T</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Trystan</FirstName>
+						<LastName>Colon-Castillo</LastName>
+						<SquadNumber>63</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1005289</Id>
+						<Name>Dobbins, J</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>J.K.</FirstName>
+						<LastName>Dobbins</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1233204</Id>
+						<Name>Dorsey, Khalil</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Khalil</FirstName>
+						<LastName>Dorsey</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1007135</Id>
+						<Name>Duvernay, D</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Devin</FirstName>
+						<LastName>Duvernay</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>757966</Id>
+						<Name>Fluker, D.J.</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>D.J.</FirstName>
+						<LastName>Fluker</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1005385</Id>
+						<Name>Harrison, Malik</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Malik</FirstName>
+						<LastName>Harrison</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1017093</Id>
+						<Name>Huntley, T</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Tyler</FirstName>
+						<LastName>Huntley</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013821</Id>
+						<Name>Madubuike, J</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Justin</FirstName>
+						<LastName>Madubuike</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1012829</Id>
+						<Name>Phillips, Tyre</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Tyre</FirstName>
+						<LastName>Phillips</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1009108</Id>
+						<Name>Proche, J</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>James</FirstName>
+						<LastName>Proche</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1016868</Id>
+						<Name>Queen, P</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Patrick</FirstName>
+						<LastName>Queen</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1006837</Id>
+						<Name>Stone, G</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Geno</FirstName>
+						<LastName>Stone</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1019655</Id>
+						<Name>Ward, Jihad</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Jihad</FirstName>
+						<LastName>Ward</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1233208</Id>
+						<Name>Washington, Broderick</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Broderick</FirstName>
+						<LastName>Washington</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1006916</Id>
+						<Name>Welch, K</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Kristian</FirstName>
+						<LastName>Welch</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>719359</Id>
+						<Name>Wolfe, D</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Derek</FirstName>
+						<LastName>Wolfe</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941442</Id>
+						<Name>Ngakoue, Y</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Yannick</FirstName>
+						<LastName>Ngakoue</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>578582</Id>
+						<Name>Bryant, Dez</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Dez</FirstName>
+						<LastName>Bryant</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>165550</Id>
+						<Name>Williams, Tramon</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Tramon</FirstName>
+						<LastName>Williams</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1071904</Id>
+						<Name>Harris, Davontae</Name>
+						<HomeAway>Home</HomeAway>
+						<FirstName>Davontae</FirstName>
+						<LastName>Harris</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>757793</Id>
+						<Name>Willson, L</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Luke</FirstName>
+						<LastName>Willson</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>865463</Id>
+						<Name>Wilson, L</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Luke</FirstName>
+						<LastName>Wilson</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>758008</Id>
+						<Name>Bohanon, T</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Tommy</FirstName>
+						<LastName>Bohanon</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1012855</Id>
+						<Name>Hoyett, B</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Braxton</FirstName>
+						<LastName>Hoyett</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999315</Id>
+						<Name>Culkin, S</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Sean</FirstName>
+						<LastName>Culkin</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+				</Competitors>
+				<Gender>Male</Gender>
+				<CompetitorType>Team</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>96760</Id>
+				<Name>Dallas Cowboys</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors>
+					<Competitor>
+						<Id>444379</Id>
+						<Name>LaDouceur, LP</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>LP</FirstName>
+						<LastName>LaDouceur</LastName>
+						<SquadNumber>91</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>581336</Id>
+						<Name>Jones, C</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Chris</FirstName>
+						<LastName>Jones</LastName>
+						<SquadNumber>6</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>578611</Id>
+						<Name>Lee, S</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Sean</FirstName>
+						<LastName>Lee</LastName>
+						<SquadNumber>50</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>796702</Id>
+						<Name>Lawrence, D</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>DeMarcus</FirstName>
+						<LastName>Lawrence</LastName>
+						<SquadNumber>90</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>796703</Id>
+						<Name>Martin, Z</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Zack</FirstName>
+						<LastName>Martin</LastName>
+						<SquadNumber>70</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835561</Id>
+						<Name>Gregory, R</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Randy</FirstName>
+						<LastName>Gregory</LastName>
+						<SquadNumber>94</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941044</Id>
+						<Name>Brown, Anthony</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Anthony</FirstName>
+						<LastName>Brown</LastName>
+						<SquadNumber>30</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941046</Id>
+						<Name>Elliott, E</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Ezekiel</FirstName>
+						<LastName>Elliott</LastName>
+						<SquadNumber>21</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>719345</Id>
+						<Name>Looney, J</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Joe</FirstName>
+						<LastName>Looney</LastName>
+						<SquadNumber>73</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941060</Id>
+						<Name>Prescott, D</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Dak</FirstName>
+						<LastName>Prescott</LastName>
+						<SquadNumber>4</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999653</Id>
+						<Name>Awuzie, C</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Chidobe</FirstName>
+						<LastName>Awuzie</LastName>
+						<SquadNumber>24</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999662</Id>
+						<Name>Brown, N</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Noah</FirstName>
+						<LastName>Brown</LastName>
+						<SquadNumber>85</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835560</Id>
+						<Name>Collins, L</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>La'el</FirstName>
+						<LastName>Collins</LastName>
+						<SquadNumber>71</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999697</Id>
+						<Name>Jarwin, B</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Blake</FirstName>
+						<LastName>Jarwin</LastName>
+						<SquadNumber>89</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999707</Id>
+						<Name>Lewis, Jourdan</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Jourdan</FirstName>
+						<LastName>Lewis</LastName>
+						<SquadNumber>27</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999716</Id>
+						<Name>Rush, C</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Cooper</FirstName>
+						<LastName>Rush</LastName>
+						<SquadNumber>7</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999722</Id>
+						<Name>Smith, Jaylon</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Jaylon</FirstName>
+						<LastName>Smith</LastName>
+						<SquadNumber>54</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999735</Id>
+						<Name>Woods, X</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Xavier</FirstName>
+						<LastName>Woods</LastName>
+						<SquadNumber>25</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1014810</Id>
+						<Name>Armstrong Jr., D</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Dorance</FirstName>
+						<LastName>Armstrong Jr.</LastName>
+						<SquadNumber>92</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1002936</Id>
+						<Name>Schultz, D</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Dalton</FirstName>
+						<LastName>Schultz</LastName>
+						<SquadNumber>86</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>837731</Id>
+						<Name>Thomas, Joe</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Joe</FirstName>
+						<LastName>Thomas</LastName>
+						<SquadNumber>48</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1010578</Id>
+						<Name>Vander Esch, L</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Leighton</FirstName>
+						<LastName>Vander Esch</LastName>
+						<SquadNumber>55</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1007219</Id>
+						<Name>Williams, Connor</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Connor</FirstName>
+						<LastName>Williams</LastName>
+						<SquadNumber>52</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1010526</Id>
+						<Name>Wilson, C</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Cedrick</FirstName>
+						<LastName>Wilson</LastName>
+						<SquadNumber>16</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>964175</Id>
+						<Name>Woods, Antwaun</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Antwaun</FirstName>
+						<LastName>Woods</LastName>
+						<SquadNumber>99</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1002721</Id>
+						<Name>Gallup, M</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Michael</FirstName>
+						<LastName>Gallup</LastName>
+						<SquadNumber>13</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998431</Id>
+						<Name>Redmond, A</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Adam</FirstName>
+						<LastName>Redmond</LastName>
+						<SquadNumber>61</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>832564</Id>
+						<Name>Goodwin, C</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>C.J.</FirstName>
+						<LastName>Goodwin</LastName>
+						<SquadNumber>29</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941510</Id>
+						<Name>Thompson, Darian</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Darian</FirstName>
+						<LastName>Thompson</LastName>
+						<SquadNumber>20</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835914</Id>
+						<Name>Cooper, A</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Amari</FirstName>
+						<LastName>Cooper</LastName>
+						<SquadNumber>19</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1012338</Id>
+						<Name>Gifford, L</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Luke</FirstName>
+						<LastName>Gifford</LastName>
+						<SquadNumber>57</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1008860</Id>
+						<Name>Hill, Trysten</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Trysten</FirstName>
+						<LastName>Hill</LastName>
+						<SquadNumber>79</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1005090</Id>
+						<Name>Knight, B</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Brandon</FirstName>
+						<LastName>Knight</LastName>
+						<SquadNumber>69</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1005525</Id>
+						<Name>Pollard, T</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Tony</FirstName>
+						<LastName>Pollard</LastName>
+						<SquadNumber>36</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013763</Id>
+						<Name>Wilson, Donovan</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Donovan</FirstName>
+						<LastName>Wilson</LastName>
+						<SquadNumber>26</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1008001</Id>
+						<Name>McGovern, C</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Connor</FirstName>
+						<LastName>McGovern</LastName>
+						<SquadNumber>66</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>444221</Id>
+						<Name>Hamilton, J</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Justin</FirstName>
+						<LastName>Hamilton</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998966</Id>
+						<Name>Burton, D</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Deante</FirstName>
+						<LastName>Burton</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1017164</Id>
+						<Name>Anae, B</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Bradlee</FirstName>
+						<LastName>Anae</LastName>
+						<SquadNumber>51</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835966</Id>
+						<Name>Bell, Blake</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Blake</FirstName>
+						<LastName>Bell</LastName>
+						<SquadNumber>80</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1017501</Id>
+						<Name>Biadasz, T</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Tyler</FirstName>
+						<LastName>Biadasz</LastName>
+						<SquadNumber>63</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>577806</Id>
+						<Name>Dalton, A</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Andy</FirstName>
+						<LastName>Dalton</LastName>
+						<SquadNumber>14</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1014930</Id>
+						<Name>Diggs, T</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Trevon</FirstName>
+						<LastName>Diggs</LastName>
+						<SquadNumber>31</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1016518</Id>
+						<Name>Dinucci, B</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Ben</FirstName>
+						<LastName>Dinucci</LastName>
+						<SquadNumber>1</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013418</Id>
+						<Name>Dowdle, R</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Rico</FirstName>
+						<LastName>Dowdle</LastName>
+						<SquadNumber>42</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>835554</Id>
+						<Name>Erving, C</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Cameron</FirstName>
+						<LastName>Erving</LastName>
+						<SquadNumber>75</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013960</Id>
+						<Name>Gallimore, N</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Neville</FirstName>
+						<LastName>Gallimore</LastName>
+						<SquadNumber>96</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013871</Id>
+						<Name>Lamb, CeeDee</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>CeeDee</FirstName>
+						<LastName>Lamb</LastName>
+						<SquadNumber>88</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1008265</Id>
+						<Name>McKeon, S</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Sean</FirstName>
+						<LastName>McKeon</LastName>
+						<SquadNumber>84</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1014188</Id>
+						<Name>Robinson II, R</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Reggie</FirstName>
+						<LastName>Robinson II</LastName>
+						<SquadNumber>41</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>577838</Id>
+						<Name>Smith, Aldon</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Aldon</FirstName>
+						<LastName>Smith</LastName>
+						<SquadNumber>58</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1014364</Id>
+						<Name>Steele, T</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Terence</FirstName>
+						<LastName>Steele</LastName>
+						<SquadNumber>74</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1007809</Id>
+						<Name>Turner, Malik</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Malik</FirstName>
+						<LastName>Turner</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>719316</Id>
+						<Name>Zuerlein, G</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Greg</FirstName>
+						<LastName>Zuerlein</LastName>
+						<SquadNumber>2</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941282</Id>
+						<Name>March, J</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Justin</FirstName>
+						<LastName>March</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998754</Id>
+						<Name>Smith, Eric</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Eric</FirstName>
+						<LastName>Smith</LastName>
+						<SquadNumber>67</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1024271</Id>
+						<Name>Senat, G</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Greg</FirstName>
+						<LastName>Senat</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1002715</Id>
+						<Name>Bernard, F</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Francis</FirstName>
+						<LastName>Bernard</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1131099</Id>
+						<Name>Henry, Marcus</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Marcus</FirstName>
+						<LastName>Henry</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>998769</Id>
+						<Name>Gilbert, G</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Garrett</FirstName>
+						<LastName>Gilbert</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1013875</Id>
+						<Name>Parker, Steven</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Steven</FirstName>
+						<LastName>Parker</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>758014</Id>
+						<Name>Mills, J</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Jordan</FirstName>
+						<LastName>Mills</LastName>
+						<SquadNumber>68</SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>999138</Id>
+						<Name>Ankou, E</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Eli</FirstName>
+						<LastName>Ankou</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1017028</Id>
+						<Name>Olonilua, S</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Sewo</FirstName>
+						<LastName>Olonilua</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1008327</Id>
+						<Name>Niswander, H</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Hunter</FirstName>
+						<LastName>Niswander</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1077239</Id>
+						<Name>Carter, Ron'Dell</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Ron'Dell</FirstName>
+						<LastName>Carter</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>941563</Id>
+						<Name>Robinson, Rashard</Name>
+						<HomeAway>Away</HomeAway>
+						<FirstName>Rashard</FirstName>
+						<LastName>Robinson</LastName>
+						<SquadNumber></SquadNumber>
+						<Position></Position>
+						<Gender>Male</Gender>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+				</Competitors>
+				<Gender>Male</Gender>
+				<CompetitorType>Team</CompetitorType>
+			</Competitor>
+		</Competitors>
+	</Fixture>
+</Updategram>

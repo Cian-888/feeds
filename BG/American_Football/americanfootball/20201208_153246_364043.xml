@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>3515223e-24d4-4170-9244-8ed4e38ca9c1</MessageGuid>
+		<TimeStampUtc>2020-12-08T15:32:46.2110514Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>7638505</FixtureId>
+		<Markets>
+			<Market>
+				<Id>106430752</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Match Result</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>6571</Id>
+					<Name>Match Result</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>322771222</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Baltimore Ravens</Name>
+						<CompetitorId>93331</CompetitorId>
+						<Outcome>
+							<Id>1</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>3</Numerator>
+						<Denominator>10</Denominator>
+						<Decimal>1.3</Decimal>
+					</Selection>
+					<Selection>
+						<Id>322771223</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw</Name>
+						<Outcome>
+							<Id>2</Id>
+							<Name>Draw</Name>
+						</Outcome>
+						<Numerator>18</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>19</Decimal>
+					</Selection>
+					<Selection>
+						<Id>322771224</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dallas Cowboys</Name>
+						<CompetitorId>96760</CompetitorId>
+						<Outcome>
+							<Id>3</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>59</Numerator>
+						<Denominator>20</Denominator>
+						<Decimal>3.95</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

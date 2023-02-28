@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>4901f80d-543f-463f-8fd4-754c9146be01</MessageGuid>
+		<TimeStampUtc>2020-12-09T03:57:16.301624Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>297256136</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>7638505</FixtureId>
+		<Markets>
+			<Market>
+				<Id>107041903</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Suspended</TradingStatus>
+				<Name>2nd Half Handicap +9.50</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<Handicap>9.50</Handicap>
+				<MarketType>
+					<Id>8259</Id>
+					<Name>2nd Half Handicap</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324551867</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Baltimore Ravens</Name>
+						<CompetitorId>93331</CompetitorId>
+						<Outcome>
+							<Id>4</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>1.2</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324551868</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dallas Cowboys</Name>
+						<CompetitorId>96760</CompetitorId>
+						<Outcome>
+							<Id>5</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>10</Numerator>
+						<Denominator>3</Denominator>
+						<Decimal>4.3333</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>107038723</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Suspended</TradingStatus>
+				<Name>4th Quarter Handicap +2.50</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<Handicap>2.50</Handicap>
+				<MarketType>
+					<Id>6574</Id>
+					<Name>4th Quarter Point Spread</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324545273</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Baltimore Ravens</Name>
+						<CompetitorId>93331</CompetitorId>
+						<Outcome>
+							<Id>4</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>1.2</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324545274</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dallas Cowboys</Name>
+						<CompetitorId>96760</CompetitorId>
+						<Outcome>
+							<Id>5</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>10</Numerator>
+						<Denominator>3</Denominator>
+						<Decimal>4.3333</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>107042407</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Suspended</TradingStatus>
+				<Name>4th Quarter Home Team Totals Over/Under 10.50</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<Handicap>10.50</Handicap>
+				<MarketType>
+					<Id>11647</Id>
+					<Name>4th Quarter Home Team Totals Over/Under</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324553144</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Over</Name>
+						<Outcome>
+							<Id>30</Id>
+							<Name>Over</Name>
+						</Outcome>
+						<Numerator>5</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>6.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324553145</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Under</Name>
+						<Outcome>
+							<Id>31</Id>
+							<Name>Under</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>9</Denominator>
+						<Decimal>1.1111</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>107041902</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Suspended</TradingStatus>
+				<Name>Handicap Betting +16.50</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<Handicap>16.50</Handicap>
+				<MarketType>
+					<Id>106</Id>
+					<Name>Point Spread</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324551865</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Baltimore Ravens</Name>
+						<CompetitorId>93331</CompetitorId>
+						<Outcome>
+							<Id>4</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>1.2</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324551866</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dallas Cowboys</Name>
+						<CompetitorId>96760</CompetitorId>
+						<Outcome>
+							<Id>5</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>10</Numerator>
+						<Denominator>3</Denominator>
+						<Decimal>4.3333</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

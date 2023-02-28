@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>6f381a42-e40c-4e00-89c5-9df6cdd1e276</MessageGuid>
+		<TimeStampUtc>2020-12-09T01:14:44.9715554Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>297255320</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>7638505</FixtureId>
+		<Markets>
+			<Market>
+				<Id>107038752</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Suspended</TradingStatus>
+				<Name>4th Quarter Home Team Totals Over/Under 7.50</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<Handicap>7.50</Handicap>
+				<MarketType>
+					<Id>11647</Id>
+					<Name>4th Quarter Home Team Totals Over/Under</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324545336</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Over</Name>
+						<Outcome>
+							<Id>30</Id>
+							<Name>Over</Name>
+						</Outcome>
+						<Numerator>5</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>2.25</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324545337</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Under</Name>
+						<Outcome>
+							<Id>31</Id>
+							<Name>Under</Name>
+						</Outcome>
+						<Numerator>8</Numerator>
+						<Denominator>13</Denominator>
+						<Decimal>1.6154</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

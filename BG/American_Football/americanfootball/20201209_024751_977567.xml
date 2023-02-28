@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>8c91fde2-198f-4e73-bcf0-a683395e7d05</MessageGuid>
+		<TimeStampUtc>2020-12-09T02:47:51.7853902Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>297255784</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>7638505</FixtureId>
+		<Markets>
+			<Market>
+				<Id>107038735</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>3rd Quarter Result</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>9483</Id>
+					<Name>3rd Quarter Result</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324545299</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Baltimore Ravens</Name>
+						<CompetitorId>93331</CompetitorId>
+						<Outcome>
+							<Id>1</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>11</Numerator>
+						<Denominator>8</Denominator>
+						<Decimal>2.375</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324545300</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw</Name>
+						<Outcome>
+							<Id>2</Id>
+							<Name>Draw</Name>
+						</Outcome>
+						<Numerator>11</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>3.75</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324545301</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dallas Cowboys</Name>
+						<CompetitorId>96760</CompetitorId>
+						<Outcome>
+							<Id>3</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>5</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>2.25</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>107039479</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>3rd Quarter Totals Over/Under 7.50</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<Handicap>7.50</Handicap>
+				<MarketType>
+					<Id>266</Id>
+					<Name>3rd Quarter Total Points</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324546811</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Over</Name>
+						<Outcome>
+							<Id>30</Id>
+							<Name>Over</Name>
+						</Outcome>
+						<Numerator>6</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>2.2</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324546812</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Under</Name>
+						<Outcome>
+							<Id>31</Id>
+							<Name>Under</Name>
+						</Outcome>
+						<Numerator>4</Numerator>
+						<Denominator>6</Denominator>
+						<Decimal>1.6667</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>444810ca-01d4-4f02-8af6-d9eca3339af4</MessageGuid>
+		<TimeStampUtc>2020-12-09T01:09:57.1526074Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>297255288</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>7638505</FixtureId>
+		<Markets>
+			<Market>
+				<Id>106517842</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>1st Half Result</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>6834</Id>
+					<Name>Half-time Result</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>323043779</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Baltimore Ravens</Name>
+						<CompetitorId>93331</CompetitorId>
+						<Outcome>
+							<Id>1</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>1.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043780</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw</Name>
+						<Outcome>
+							<Id>2</Id>
+							<Name>Draw</Name>
+						</Outcome>
+						<Numerator>8</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>9.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043781</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dallas Cowboys</Name>
+						<CompetitorId>96760</CompetitorId>
+						<Outcome>
+							<Id>3</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>9</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>2.8</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>107038733</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>1st Quarter Result</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>9481</Id>
+					<Name>1st Quarter Result</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324545293</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Baltimore Ravens</Name>
+						<CompetitorId>93331</CompetitorId>
+						<Outcome>
+							<Id>1</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>11</Numerator>
+						<Denominator>10</Denominator>
+						<Decimal>2.1</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324545294</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw</Name>
+						<Outcome>
+							<Id>2</Id>
+							<Name>Draw</Name>
+						</Outcome>
+						<Numerator>9</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>3.25</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324545295</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dallas Cowboys</Name>
+						<CompetitorId>96760</CompetitorId>
+						<Outcome>
+							<Id>3</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>15</Numerator>
+						<Denominator>8</Denominator>
+						<Decimal>2.875</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>107038753</Id>
+				<Sequence>1</Sequence>
+				<TradingStatus>Suspended</TradingStatus>
+				<Name>Team to Score First Touchdown</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>12860</Id>
+					<Name>Team to Score Next Touchdown</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324545338</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Baltimore Ravens</Name>
+						<CompetitorId>93331</CompetitorId>
+						<Outcome>
+							<Id>1</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>4</Numerator>
+						<Denominator>9</Denominator>
+						<Decimal>1.4444</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324545339</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dallas Cowboys</Name>
+						<CompetitorId>96760</CompetitorId>
+						<Outcome>
+							<Id>3</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>6</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>2.2</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324545340</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>No Touchdown</Name>
+						<Outcome>
+							<Id>83</Id>
+							<Name>No Touchdown</Name>
+						</Outcome>
+						<Numerator>200</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>201.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

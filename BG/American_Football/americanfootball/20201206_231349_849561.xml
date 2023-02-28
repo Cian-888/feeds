@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>e8251d7d-7fc2-4bdf-a667-4d316972a7af</MessageGuid>
+		<TimeStampUtc>2020-12-06T23:13:49.6694589Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>7638505</FixtureId>
+		<Markets>
+			<Market>
+				<Id>106837872</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>1st Quarter Point Spread</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<Handicap>0.50</Handicap>
+				<MarketType>
+					<Id>6552</Id>
+					<Name>1st Quarter Point Spread</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>323949770</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Baltimore Ravens</Name>
+						<CompetitorId>93331</CompetitorId>
+						<Outcome>
+							<Id>4</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>18</Numerator>
+						<Denominator>25</Denominator>
+						<Decimal>1.72</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323949771</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dallas Cowboys</Name>
+						<CompetitorId>96760</CompetitorId>
+						<Outcome>
+							<Id>5</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>11</Numerator>
+						<Denominator>10</Denominator>
+						<Decimal>2.1</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>106893474</Id>
+				<TradingStatus>Suspended</TradingStatus>
+				<Name>1st Quarter Point Spread</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<Handicap>2.50</Handicap>
+				<MarketType>
+					<Id>6552</Id>
+					<Name>1st Quarter Point Spread</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324089209</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Baltimore Ravens</Name>
+						<CompetitorId>93331</CompetitorId>
+						<Outcome>
+							<Id>4</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>17</Numerator>
+						<Denominator>20</Denominator>
+						<Decimal>1.85</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324089210</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dallas Cowboys</Name>
+						<CompetitorId>96760</CompetitorId>
+						<Outcome>
+							<Id>5</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>91</Numerator>
+						<Denominator>100</Denominator>
+						<Decimal>1.91</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>a7c38336-201f-4f82-82f8-e14355a72662</MessageGuid>
+		<TimeStampUtc>2020-12-08T23:30:03.5475883Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<Coverage>
+		<FixtureId>7638505</FixtureId>
+		<IsBooked>true</IsBooked>
+		<AvailableFeeds>
+			<Feed>
+				<Type>MatchState</Type>
+				<IsLicensed>true</IsLicensed>
+			</Feed>
+			<Feed>
+				<Type>TradingState</Type>
+				<IsLicensed>true</IsLicensed>
+			</Feed>
+		</AvailableFeeds>
+	</Coverage>
+</Updategram>

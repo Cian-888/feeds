@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>94c37c0a-537c-45a6-91db-3331bc3830b9</MessageGuid>
+		<TimeStampUtc>2020-12-08T02:09:53.0798085Z</TimeStampUtc>
+		<Retry>1</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>7638505</FixtureId>
+		<Markets>
+			<Market>
+				<Id>106898801</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Total Touchdowns Over/Under</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<Handicap>5.50</Handicap>
+				<MarketType>
+					<Id>6811</Id>
+					<Name>Total Touchdowns Over/Under</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>324106491</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Over</Name>
+						<Outcome>
+							<Id>30</Id>
+							<Name>Over</Name>
+						</Outcome>
+						<Numerator>3</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>2.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>324106492</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Under</Name>
+						<Outcome>
+							<Id>31</Id>
+							<Name>Under</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>1.5</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

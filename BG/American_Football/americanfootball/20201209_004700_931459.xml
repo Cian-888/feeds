@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>a6957f86-d79b-48c5-ab41-0fda18e24f1f</MessageGuid>
+		<TimeStampUtc>2020-12-09T00:47:00.7924424Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>7638505</FixtureId>
+		<Markets>
+			<Market>
+				<Id>106517834</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Highest Scoring Quarter</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>6792</Id>
+					<Name>Highest Scoring Quarter</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>323043761</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>First Quarter</Name>
+						<Outcome>
+							<Id>44</Id>
+							<Name>First Quarter</Name>
+						</Outcome>
+						<Numerator>9</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>5.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043762</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Second Quarter</Name>
+						<Outcome>
+							<Id>45</Id>
+							<Name>Second Quarter</Name>
+						</Outcome>
+						<Numerator>6</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>2.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043763</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Third Quarter</Name>
+						<Outcome>
+							<Id>46</Id>
+							<Name>Third Quarter</Name>
+						</Outcome>
+						<Numerator>41</Numerator>
+						<Denominator>10</Denominator>
+						<Decimal>5.1</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043764</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Fourth Quarter</Name>
+						<Outcome>
+							<Id>47</Id>
+							<Name>Fourth Quarter</Name>
+						</Outcome>
+						<Numerator>39</Numerator>
+						<Denominator>20</Denominator>
+						<Decimal>2.95</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

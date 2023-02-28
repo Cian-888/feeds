@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>e4db20b3-5ddd-4cdd-8e34-551aa4f0bc2e</MessageGuid>
+		<TimeStampUtc>2020-12-09T01:00:10.0249246Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>7638505</FixtureId>
+		<Markets>
+			<Market>
+				<Id>106517832</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Last Touchdown Scorer</Name>
+				<ExpiryUtc>2020-12-09T01:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>6646</Id>
+					<Name>Last Touchdown Scorer</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>323043746</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Anae, B</Name>
+						<CompetitorId>1017164</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043734</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Andrews, M</Name>
+						<CompetitorId>1013950</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043688</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Ankou, E</Name>
+						<CompetitorId>999138</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043739</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Armstrong Jr., D</Name>
+						<CompetitorId>1014810</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043741</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Averett, A</Name>
+						<CompetitorId>1014960</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043689</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Awuzie, C</Name>
+						<CompetitorId>999653</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043665</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Bell, Blake</Name>
+						<CompetitorId>835966</CompetitorId>
+						<Numerator>73</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>74</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043696</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Bernard, F</Name>
+						<CompetitorId>1002715</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043747</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Biadasz, T</Name>
+						<CompetitorId>1017501</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043702</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Board, Chris</Name>
+						<CompetitorId>1005520</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043721</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Bonds, T</Name>
+						<CompetitorId>1010642</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043682</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Bowser, T</Name>
+						<CompetitorId>998782</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043718</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Boykin, Miles</Name>
+						<CompetitorId>1009895</CompetitorId>
+						<Numerator>20</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>21</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043658</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Boyle, N</Name>
+						<CompetitorId>835473</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043742</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Bozeman, B</Name>
+						<CompetitorId>1015013</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043712</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Bredeson, B</Name>
+						<CompetitorId>1008248</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043733</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Brown Jr., O</Name>
+						<CompetitorId>1013947</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043671</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Brown, Anthony</Name>
+						<CompetitorId>941044</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043729</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Brown, Marquise</Name>
+						<CompetitorId>1013865</CompetitorId>
+						<Numerator>35</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>9.75</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043690</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Brown, N</Name>
+						<CompetitorId>999662</CompetitorId>
+						<Numerator>79</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>80</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043641</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Bryant, Dez</Name>
+						<CompetitorId>578582</CompetitorId>
+						<Numerator>33</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>17.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043687</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Burton, D</Name>
+						<CompetitorId>998966</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043634</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Campbell, C</Name>
+						<CompetitorId>444395</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043753</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Carter, Ron'Dell</Name>
+						<CompetitorId>1077239</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043683</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Clark, Chuck</Name>
+						<CompetitorId>998788</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043660</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Collins, L</Name>
+						<CompetitorId>835560</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043738</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Colon-Castillo, T</Name>
+						<CompetitorId>1014495</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043664</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cooper, A</Name>
+						<CompetitorId>835914</CompetitorId>
+						<Numerator>47</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>12.75</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043636</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Cox, Morgan</Name>
+						<CompetitorId>577692</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043639</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dalton, A</Name>
+						<CompetitorId>577806</CompetitorId>
+						<Numerator>43</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>44</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043740</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Diggs, T</Name>
+						<CompetitorId>1014930</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043743</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Dinucci, B</Name>
+						<CompetitorId>1016518</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043700</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dobbins, J</Name>
+						<CompetitorId>1005289</CompetitorId>
+						<Numerator>33</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>9.25</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043756</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Dorsey, Khalil</Name>
+						<CompetitorId>1233204</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043725</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Dowdle, R</Name>
+						<CompetitorId>1013418</CompetitorId>
+						<Numerator>87</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>88</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043707</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Duvernay, D</Name>
+						<CompetitorId>1007135</CompetitorId>
+						<Numerator>31</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>16.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043751</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Edwards, G</Name>
+						<CompetitorId>1028479</CompetitorId>
+						<Numerator>12</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>13</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043706</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Elliott, DeShon</Name>
+						<CompetitorId>1007129</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043672</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Elliott, E</Name>
+						<CompetitorId>941046</CompetitorId>
+						<Numerator>13</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>7.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043656</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Ellis, J</Name>
+						<CompetitorId>797048</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043659</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Erving, C</Name>
+						<CompetitorId>835554</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043749</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Ferguson, Jaylon</Name>
+						<CompetitorId>1021009</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043652</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Fluker, D.J.</Name>
+						<CompetitorId>757966</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043647</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Fort, L</Name>
+						<CompetitorId>719280</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043735</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Gallimore, N</Name>
+						<CompetitorId>1013960</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043697</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Gallup, M</Name>
+						<CompetitorId>1002721</CompetitorId>
+						<Numerator>37</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>19.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043723</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Gifford, L</Name>
+						<CompetitorId>1012338</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043681</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Gilbert, G</Name>
+						<CompetitorId>998769</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043657</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Goodwin, C</Name>
+						<CompetitorId>832564</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043661</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Gregory, R</Name>
+						<CompetitorId>835561</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043635</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Griffin, R</Name>
+						<CompetitorId>493257</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043632</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Hamilton, J</Name>
+						<CompetitorId>444221</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043752</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Harris, Davontae</Name>
+						<CompetitorId>1071904</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043701</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Harrison, Malik</Name>
+						<CompetitorId>1005385</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043754</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Henry, Marcus</Name>
+						<CompetitorId>1131099</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043726</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Hill, Justice</Name>
+						<CompetitorId>1013642</CompetitorId>
+						<Numerator>50</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>51</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043716</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Hill, Trysten</Name>
+						<CompetitorId>1008860</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043684</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Humphrey, M</Name>
+						<CompetitorId>998796</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043643</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Ingram II, M</Name>
+						<CompetitorId>578651</CompetitorId>
+						<Numerator>13</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>14</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043722</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Jackson, Lamar</Name>
+						<CompetitorId>1012102</CompetitorId>
+						<Numerator>29</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>8.25</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043691</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Jarwin, B</Name>
+						<CompetitorId>999697</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043644</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Jones, C</Name>
+						<CompetitorId>581336</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043667</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Judon, M</Name>
+						<CompetitorId>940760</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043699</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Knight, B</Name>
+						<CompetitorId>1005090</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043630</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Koch, S</Name>
+						<CompetitorId>162287</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043633</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>LaDouceur, LP</Name>
+						<CompetitorId>444379</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043730</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Lamb, CeeDee</Name>
+						<CompetitorId>1013871</CompetitorId>
+						<Numerator>14</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>15</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043654</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Lawrence, D</Name>
+						<CompetitorId>796702</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043642</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Lee, S</Name>
+						<CompetitorId>578611</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043645</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Levine Sr., A</Name>
+						<CompetitorId>586182</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043692</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Lewis, Jourdan</Name>
+						<CompetitorId>999707</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043649</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Looney, J</Name>
+						<CompetitorId>719345</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043728</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Madubuike, J</Name>
+						<CompetitorId>1013821</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043674</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>March, J</Name>
+						<CompetitorId>941282</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043655</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Martin, Z</Name>
+						<CompetitorId>796703</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043711</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>McGovern, C</Name>
+						<CompetitorId>1008001</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043713</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>McKeon, S</Name>
+						<CompetitorId>1008265</CompetitorId>
+						<Numerator>100</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>101</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043637</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>McPhee, P</Name>
+						<CompetitorId>577710</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043710</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>McSorley, T</Name>
+						<CompetitorId>1007944</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043715</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Mekari, P</Name>
+						<CompetitorId>1008844</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043653</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Mills, J</Name>
+						<CompetitorId>758014</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043668</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Moore, Chris</Name>
+						<CompetitorId>940762</CompetitorId>
+						<Numerator>87</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>88</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043675</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Ngakoue, Y</Name>
+						<CompetitorId>941442</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043714</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Niswander, H</Name>
+						<CompetitorId>1008327</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043745</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Olonilua, S</Name>
+						<CompetitorId>1017028</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043731</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Parker, Steven</Name>
+						<CompetitorId>1013875</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043755</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Peters, Marcus</Name>
+						<CompetitorId>1147310</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043724</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Phillips, Tyre</Name>
+						<CompetitorId>1012829</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043703</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Pollard, T</Name>
+						<CompetitorId>1005525</CompetitorId>
+						<Numerator>21</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>22</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043732</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Powers, B</Name>
+						<CompetitorId>1013942</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043673</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Prescott, D</Name>
+						<CompetitorId>941060</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043717</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Proche, J</Name>
+						<CompetitorId>1009108</CompetitorId>
+						<Numerator>59</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>60</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043744</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Queen, P</Name>
+						<CompetitorId>1016868</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043679</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Redmond, A</Name>
+						<CompetitorId>998431</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043685</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Ricard, P</Name>
+						<CompetitorId>998824</CompetitorId>
+						<Numerator>65</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>66</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043662</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Richards, J</Name>
+						<CompetitorId>835737</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043736</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Robinson II, R</Name>
+						<CompetitorId>1014188</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043677</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Robinson, Rashard</Name>
+						<CompetitorId>941563</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043693</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Rush, C</Name>
+						<CompetitorId>999716</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043698</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Schultz, D</Name>
+						<CompetitorId>1002936</CompetitorId>
+						<Numerator>37</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>19.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043750</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Senat, G</Name>
+						<CompetitorId>1024271</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043686</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Skura, M</Name>
+						<CompetitorId>998830</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043640</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Smith, Aldon</Name>
+						<CompetitorId>577838</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043680</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Smith, Eric</Name>
+						<CompetitorId>998754</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043694</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Smith, Jaylon</Name>
+						<CompetitorId>999722</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043638</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Smith, Jimmy</Name>
+						<CompetitorId>577722</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043663</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Snead IV, W</Name>
+						<CompetitorId>835907</CompetitorId>
+						<Numerator>47</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>24.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043669</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Stanley, R</Name>
+						<CompetitorId>940764</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043737</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Steele, T</Name>
+						<CompetitorId>1014364</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043704</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Stone, G</Name>
+						<CompetitorId>1006837</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043666</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Thomas, Joe</Name>
+						<CompetitorId>837731</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043676</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Thompson, Darian</Name>
+						<CompetitorId>941510</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043646</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Tucker, Justin</Name>
+						<CompetitorId>719237</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043709</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Turner, Malik</Name>
+						<CompetitorId>1007809</CompetitorId>
+						<Numerator>100</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>101</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043720</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Vander Esch, L</Name>
+						<CompetitorId>1010578</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043748</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Ward, Jihad</Name>
+						<CompetitorId>1019655</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043757</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Washington, Broderick</Name>
+						<CompetitorId>1233208</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043705</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Welch, K</Name>
+						<CompetitorId>1006916</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043651</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Williams, Brandon</Name>
+						<CompetitorId>757800</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043708</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Williams, Connor</Name>
+						<CompetitorId>1007219</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043631</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Williams, Tramon</Name>
+						<CompetitorId>165550</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043719</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Wilson, C</Name>
+						<CompetitorId>1010526</CompetitorId>
+						<Numerator>44</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>45</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043727</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Wilson, Donovan</Name>
+						<CompetitorId>1013763</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043650</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Wolfe, D</Name>
+						<CompetitorId>719359</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043678</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Woods, Antwaun</Name>
+						<CompetitorId>964175</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043695</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Woods, X</Name>
+						<CompetitorId>999735</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043670</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Young, Tavon</Name>
+						<CompetitorId>940765</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043648</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Zuerlein, G</Name>
+						<CompetitorId>719316</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>323043758</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>No Touchdown Scorer</Name>
+						<Outcome>
+							<Id>83</Id>
+							<Name>No Touchdown Scorer</Name>
+						</Outcome>
+						<Numerator>125</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>126</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>
