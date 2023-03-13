@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>df308b2a-4dfb-491f-a9dd-ecffddfbe53b</MessageGuid>
+		<TimeStampUtc>2016-07-02T15:23:20.613561Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100654815</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Half-time Totals Over/Under</Name>
+				<ExpiryUtc>2016-07-02T19:00:00</ExpiryUtc>
+				<Handicap>1.50</Handicap>
+				<MarketType>
+					<Id>7076</Id>
+					<Name>Half-time Totals Over/Under</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302270482</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Over</Name>
+						<Outcome>
+							<Id>30</Id>
+							<Name>Over</Name>
+						</Outcome>
+						<Numerator>14</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>3.8</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302270483</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Under</Name>
+						<Outcome>
+							<Id>31</Id>
+							<Name>Under</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>1.25</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

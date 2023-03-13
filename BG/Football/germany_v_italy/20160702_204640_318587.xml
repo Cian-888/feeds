@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>4d6f3633-9d23-451d-8414-da619aeb6527</MessageGuid>
+		<TimeStampUtc>2016-07-02T20:46:40.2429375Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>159660620</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100654074</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Double Chance</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>7202</Id>
+					<Name>Double Chance</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302267272</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany or Draw</Name>
+						<Outcome>
+							<Id>7</Id>
+							<Name>Home or Draw</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>100</Denominator>
+						<Decimal>1.01</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267273</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany or Italy</Name>
+						<Outcome>
+							<Id>8</Id>
+							<Name>Home or Away</Name>
+						</Outcome>
+						<Numerator>3</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>4.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267274</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw or Italy</Name>
+						<Outcome>
+							<Id>9</Id>
+							<Name>Draw or Away</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>25</Denominator>
+						<Decimal>1.04</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>ec32dfc8-9cb1-4f24-8281-5a0e88994d02</MessageGuid>
+		<TimeStampUtc>2016-07-02T20:47:06.9666457Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>159660625</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100654428</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Total Goals Over / Under 3.50</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<Handicap>3.5</Handicap>
+				<MarketType>
+					<Id>259</Id>
+					<Name>Over/Under</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302268616</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Over</Name>
+						<Outcome>
+							<Id>30</Id>
+							<Name>Over</Name>
+						</Outcome>
+						<Numerator>40</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>41.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302268617</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Under</Name>
+						<Outcome>
+							<Id>31</Id>
+							<Name>Under</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>750</Denominator>
+						<Decimal>1.0013</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

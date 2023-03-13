@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>1e1375c7-1488-4f07-8023-9f092593f582</MessageGuid>
+		<TimeStampUtc>2016-07-02T21:28:51.1104971Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>159660814</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100711137</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Extra Time Correct Score</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>10983</Id>
+					<Name>Extra Time Correct Score (excluding normal time goals)</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302511523</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany 1-0</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Range>
+							<High>0.0</High>
+							<Low>1.0</Low>
+						</Range>
+						<Numerator>9</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>10.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511524</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany 2-0</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Range>
+							<High>0.0</High>
+							<Low>2.0</Low>
+						</Range>
+						<Numerator>100</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>101.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511525</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Germany 2-1</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Range>
+							<High>1.0</High>
+							<Low>2.0</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511526</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Germany 3-0</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Range>
+							<High>0.0</High>
+							<Low>3.0</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511527</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Germany 3-1</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Range>
+							<High>1.00</High>
+							<Low>3.00</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511520</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw 0-0</Name>
+						<Range>
+							<High>0.0</High>
+							<Low>0.0</Low>
+						</Range>
+						<Numerator>1</Numerator>
+						<Denominator>12</Denominator>
+						<Decimal>1.0833</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511521</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw 1-1</Name>
+						<Range>
+							<High>1.0</High>
+							<Low>1.0</Low>
+						</Range>
+						<Numerator>100</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>101.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511522</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Draw 2-2</Name>
+						<Range>
+							<High>2.00</High>
+							<Low>2.00</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511528</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy 1-0</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Range>
+							<High>1.0</High>
+							<Low>0.0</Low>
+						</Range>
+						<Numerator>16</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>17.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511529</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Italy 2-0</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Range>
+							<High>2.0</High>
+							<Low>0.0</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511531</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Italy 2-1</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Range>
+							<High>2.0</High>
+							<Low>1.0</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511530</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Italy 3-0</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Range>
+							<High>3.0</High>
+							<Low>0.0</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100711139</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Extra Time First GoalScorer</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>10989</Id>
+					<Name>Extra Time Next GoalScorer (excluding normal time goals)</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302511537</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Barzagli, A</Name>
+						<CompetitorId>93647</CompetitorId>
+						<Numerator>100</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>101.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511539</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Boateng, J</Name>
+						<CompetitorId>126480</CompetitorId>
+						<Numerator>66</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>67.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511546</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Bonucci, L</Name>
+						<CompetitorId>179779</CompetitorId>
+						<Numerator>66</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>67.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511543</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Chiellini, G</Name>
+						<CompetitorId>127291</CompetitorId>
+						<Numerator>66</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>67.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511544</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Darmian, M</Name>
+						<CompetitorId>127329</CompetitorId>
+						<Numerator>80</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>81.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511552</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>De Sciglio, M</Name>
+						<CompetitorId>569486</CompetitorId>
+						<Numerator>80</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>81.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511551</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draxler, J</Name>
+						<CompetitorId>552209</CompetitorId>
+						<Numerator>28</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>29.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511542</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Eder</Name>
+						<CompetitorId>127224</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511548</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Giaccherini, E</Name>
+						<CompetitorId>464213</CompetitorId>
+						<Numerator>40</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>41.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511553</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Hector, J</Name>
+						<CompetitorId>588416</CompetitorId>
+						<Numerator>50</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>51.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511540</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Howedes, B</Name>
+						<CompetitorId>126523</CompetitorId>
+						<Numerator>50</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>51.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511535</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Hummels, M</Name>
+						<CompetitorId>2107</CompetitorId>
+						<Numerator>50</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>51.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511554</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Kimmich, J</Name>
+						<CompetitorId>794603</CompetitorId>
+						<Numerator>50</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>51.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511538</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Kroos, T</Name>
+						<CompetitorId>126307</CompetitorId>
+						<Numerator>40</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>41.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511547</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Muller, T</Name>
+						<CompetitorId>442622</CompetitorId>
+						<Numerator>16</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>17.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511541</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Ozil, M</Name>
+						<CompetitorId>126526</CompetitorId>
+						<Numerator>25</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>26.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511549</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Parolo, M</Name>
+						<CompetitorId>464596</CompetitorId>
+						<Numerator>50</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>51.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511545</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Pelle, G</Name>
+						<CompetitorId>138352</CompetitorId>
+						<Numerator>25</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>26.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511536</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Schweinsteiger, B</Name>
+						<CompetitorId>90266</CompetitorId>
+						<Numerator>40</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>41.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511550</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Sturaro, S</Name>
+						<CompetitorId>551816</CompetitorId>
+						<Numerator>50</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>51.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511555</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>No GoalScorer</Name>
+						<Outcome>
+							<Id>24</Id>
+							<Name>No GoalScorer</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>12</Denominator>
+						<Decimal>1.0833</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511804</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Insigne, L</Name>
+						<CompetitorId>518986</CompetitorId>
+						<Numerator>33</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>34.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>4527b428-e171-4604-9212-dd7e60905d1e</MessageGuid>
+		<TimeStampUtc>2016-07-02T20:43:41.946203Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>159660601</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100654088</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Italy Odd Or Even Goals</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>10887</Id>
+					<Name>Away Team Odd Or Even Goals</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302267335</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Even</Name>
+						<Outcome>
+							<Id>32</Id>
+							<Name>Even</Name>
+						</Outcome>
+						<Numerator>8</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>9.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267336</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Odd</Name>
+						<Outcome>
+							<Id>33</Id>
+							<Name>Odd</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>20</Denominator>
+						<Decimal>1.05</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

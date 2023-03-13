@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>d5d8bf74-c1ba-4d60-b6e3-4081f40baf5f</MessageGuid>
+		<TimeStampUtc>2016-07-02T14:56:10.7216136Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100654052</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Highest Scoring Half</Name>
+				<ExpiryUtc>2016-07-02T19:00:00</ExpiryUtc>
+				<MarketType>
+					<Id>25</Id>
+					<Name>Highest Scoring Half</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302267110</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw</Name>
+						<Outcome>
+							<Id>27</Id>
+							<Name>Draw</Name>
+						</Outcome>
+						<Numerator>2</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>3</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267111</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>First Half</Name>
+						<Outcome>
+							<Id>28</Id>
+							<Name>First Half</Name>
+						</Outcome>
+						<Numerator>9</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>3.25</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267112</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Second Half</Name>
+						<Outcome>
+							<Id>29</Id>
+							<Name>Second Half</Name>
+						</Outcome>
+						<Numerator>23</Numerator>
+						<Denominator>20</Denominator>
+						<Decimal>2.15</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

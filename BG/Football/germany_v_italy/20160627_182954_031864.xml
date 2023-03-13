@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>892199b9-30c1-4027-ac14-d15e8ba3094e</MessageGuid>
+		<TimeStampUtc>2016-06-27T18:29:53.9736167Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100654255</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Half-time Handicap</Name>
+				<ExpiryUtc>2016-07-02T19:00:00</ExpiryUtc>
+				<Handicap>1.00</Handicap>
+				<MarketType>
+					<Id>7075</Id>
+					<Name>Half-time Handicap</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302267885</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Outcome>
+							<Id>4</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>10</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>11</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267886</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Outcome>
+							<Id>5</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>3</Denominator>
+						<Decimal>1.33333333333333</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267887</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Handicap Tie</Name>
+						<Outcome>
+							<Id>6</Id>
+							<Name>Handicap Tie</Name>
+						</Outcome>
+						<Numerator>11</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>3.75</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

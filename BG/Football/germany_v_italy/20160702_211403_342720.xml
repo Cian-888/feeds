@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>66a1117d-55f6-4165-9bf3-3edf6dd65ee5</MessageGuid>
+		<TimeStampUtc>2016-07-02T21:14:03.272869Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>159660745</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100711137</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Extra Time Correct Score</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>10983</Id>
+					<Name>Extra Time Correct Score (excluding normal time goals)</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302511523</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany 1-0</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Range>
+							<High>0.0</High>
+							<Low>1.0</Low>
+						</Range>
+						<Numerator>7</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>4.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511524</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany 2-0</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Range>
+							<High>0.0</High>
+							<Low>2.0</Low>
+						</Range>
+						<Numerator>28</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>29.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511525</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany 2-1</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Range>
+							<High>1.0</High>
+							<Low>2.0</Low>
+						</Range>
+						<Numerator>80</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>81.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511526</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany 3-0</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Range>
+							<High>0.0</High>
+							<Low>3.0</Low>
+						</Range>
+						<Numerator>100</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>101.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511527</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Germany 3-1</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Range>
+							<High>1.00</High>
+							<Low>3.00</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511520</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw 0-0</Name>
+						<Range>
+							<High>0.0</High>
+							<Low>0.0</Low>
+						</Range>
+						<Numerator>41</Numerator>
+						<Denominator>100</Denominator>
+						<Decimal>1.41</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511521</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw 1-1</Name>
+						<Range>
+							<High>1.0</High>
+							<Low>1.0</Low>
+						</Range>
+						<Numerator>22</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>23.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511522</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Draw 2-2</Name>
+						<Range>
+							<High>2.00</High>
+							<Low>2.00</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511528</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy 1-0</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Range>
+							<High>1.0</High>
+							<Low>0.0</Low>
+						</Range>
+						<Numerator>13</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>7.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511529</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy 2-0</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Range>
+							<High>2.0</High>
+							<Low>0.0</Low>
+						</Range>
+						<Numerator>50</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>51.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511531</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy 2-1</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Range>
+							<High>2.0</High>
+							<Low>1.0</Low>
+						</Range>
+						<Numerator>100</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>101.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511530</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Italy 3-0</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Range>
+							<High>3.0</High>
+							<Low>0.0</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

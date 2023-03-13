@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>79011439-beeb-426d-9c47-189191233d42</MessageGuid>
+		<TimeStampUtc>2016-07-02T20:05:57.4277609Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>159660313</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100654090</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Match Result and Both Teams To Score</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>12381</Id>
+					<Name>Match Result and Both Teams To Score</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302267339</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany and Yes</Name>
+						<Outcome>
+							<Id>108</Id>
+							<Name>Home and Yes</Name>
+						</Outcome>
+						<Numerator>18</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>19.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267340</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany and No</Name>
+						<Outcome>
+							<Id>109</Id>
+							<Name>Home and No</Name>
+						</Outcome>
+						<Numerator>15</Numerator>
+						<Denominator>8</Denominator>
+						<Decimal>2.875</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267341</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw and Yes</Name>
+						<Outcome>
+							<Id>110</Id>
+							<Name>Draw and Yes</Name>
+						</Outcome>
+						<Numerator>7</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>8.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267342</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw and No</Name>
+						<Outcome>
+							<Id>111</Id>
+							<Name>Draw and No</Name>
+						</Outcome>
+						<Numerator>8</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>2.6</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267343</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy and Yes</Name>
+						<Outcome>
+							<Id>112</Id>
+							<Name>Away and Yes</Name>
+						</Outcome>
+						<Numerator>28</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>29.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267344</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy and No</Name>
+						<Outcome>
+							<Id>113</Id>
+							<Name>Away and No</Name>
+						</Outcome>
+						<Numerator>4</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>5.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100710375</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>First Italy GoalScorer</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>7739</Id>
+					<Name>Next Away Team GoalScorer</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302508235</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Barzagli, A</Name>
+						<CompetitorId>93647</CompetitorId>
+						<Numerator>80</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>81.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508239</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Bonucci, L</Name>
+						<CompetitorId>179779</CompetitorId>
+						<Numerator>50</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>51.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508237</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Chiellini, G</Name>
+						<CompetitorId>127291</CompetitorId>
+						<Numerator>40</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>41.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508244</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>De Sciglio, M</Name>
+						<CompetitorId>569486</CompetitorId>
+						<Numerator>50</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>51.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508236</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Eder</Name>
+						<CompetitorId>127224</CompetitorId>
+						<Numerator>8</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>9.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508243</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Florenzi, Alessandro</Name>
+						<CompetitorId>561390</CompetitorId>
+						<Numerator>12</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>13.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508240</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Giaccherini, E</Name>
+						<CompetitorId>464213</CompetitorId>
+						<Numerator>14</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>15.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508241</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Parolo, M</Name>
+						<CompetitorId>464596</CompetitorId>
+						<Numerator>25</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>26.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508238</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Pelle, G</Name>
+						<CompetitorId>138352</CompetitorId>
+						<Numerator>7</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>8.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508242</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Sturaro, S</Name>
+						<CompetitorId>551816</CompetitorId>
+						<Numerator>28</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>29.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508245</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>No GoalScorer</Name>
+						<Outcome>
+							<Id>24</Id>
+							<Name>No GoalScorer</Name>
+						</Outcome>
+						<Numerator>2</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>1.4</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100710382</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>First Germany GoalScorer</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>10523</Id>
+					<Name>Next Home Team GoalScorer</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302508301</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Boateng, J</Name>
+						<CompetitorId>126480</CompetitorId>
+						<Numerator>40</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>41.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508297</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Gomez, M</Name>
+						<CompetitorId>745</CompetitorId>
+						<Numerator>11</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>6.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508305</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Hector, J</Name>
+						<CompetitorId>588416</CompetitorId>
+						<Numerator>33</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>34.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508302</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Howedes, B</Name>
+						<CompetitorId>126523</CompetitorId>
+						<Numerator>33</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>34.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508298</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Hummels, M</Name>
+						<CompetitorId>2107</CompetitorId>
+						<Numerator>28</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>29.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508299</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Khedira, S</Name>
+						<CompetitorId>3070</CompetitorId>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508306</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Kimmich, J</Name>
+						<CompetitorId>794603</CompetitorId>
+						<Numerator>33</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>34.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508300</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Kroos, T</Name>
+						<CompetitorId>126307</CompetitorId>
+						<Numerator>14</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>15.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508304</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Muller, T</Name>
+						<CompetitorId>442622</CompetitorId>
+						<Numerator>9</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>5.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508303</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Ozil, M</Name>
+						<CompetitorId>126526</CompetitorId>
+						<Numerator>9</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>10.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508307</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>No GoalScorer</Name>
+						<Outcome>
+							<Id>24</Id>
+							<Name>No GoalScorer</Name>
+						</Outcome>
+						<Numerator>4</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>1.8</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508601</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Schweinsteiger, B</Name>
+						<CompetitorId>90266</CompetitorId>
+						<Numerator>16</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>17.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100710938</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Match Result and Total Goals Over / Under 0.50</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<Handicap>0.5</Handicap>
+				<MarketType>
+					<Id>8239</Id>
+					<Name>Match Result and Total Goals Over/Under</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302510489</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany and Over</Name>
+						<Outcome>
+							<Id>102</Id>
+							<Name>Home and Over</Name>
+						</Outcome>
+						<Numerator>8</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>2.6</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302510490</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw and Over</Name>
+						<Outcome>
+							<Id>104</Id>
+							<Name>Draw and Over</Name>
+						</Outcome>
+						<Numerator>7</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>8.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302510491</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw and Under</Name>
+						<Outcome>
+							<Id>105</Id>
+							<Name>Draw and Under</Name>
+						</Outcome>
+						<Numerator>29</Numerator>
+						<Denominator>20</Denominator>
+						<Decimal>2.45</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302510492</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy and Over</Name>
+						<Outcome>
+							<Id>106</Id>
+							<Name>Away and Over</Name>
+						</Outcome>
+						<Numerator>7</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>4.5</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100710391</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Italy Exact Number of Goals</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>10870</Id>
+					<Name>Away Team Exact Number of Goals</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302508334</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>0</Name>
+						<Range>
+							<High>0.0</High>
+							<Low>0.0</Low>
+						</Range>
+						<Numerator>2</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>1.4</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508335</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>1</Name>
+						<Range>
+							<High>1.0</High>
+							<Low>1.0</Low>
+						</Range>
+						<Numerator>12</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>3.4</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508336</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>2</Name>
+						<Range>
+							<High>2.0</High>
+							<Low>2.0</Low>
+						</Range>
+						<Numerator>14</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>15.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508337</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>3</Name>
+						<Range>
+							<High>3.0</High>
+							<Low>3.0</Low>
+						</Range>
+						<Numerator>66</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>67.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508338</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>4</Name>
+						<Range>
+							<High>4.0</High>
+							<Low>4.0</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508339</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>5</Name>
+						<Range>
+							<High>5.0</High>
+							<Low>5.0</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

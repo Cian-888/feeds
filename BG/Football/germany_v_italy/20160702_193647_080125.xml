@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>13bc0450-a0bd-4986-8bfd-08f06e95c398</MessageGuid>
+		<TimeStampUtc>2016-07-02T19:36:46.9392711Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>159660236</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100710476</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Match Result and Total Goals Over / Under 1.50</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<Handicap>1.5</Handicap>
+				<MarketType>
+					<Id>8239</Id>
+					<Name>Match Result and Total Goals Over/Under</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302508542</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany and Over</Name>
+						<Outcome>
+							<Id>102</Id>
+							<Name>Home and Over</Name>
+						</Outcome>
+						<Numerator>10</Numerator>
+						<Denominator>3</Denominator>
+						<Decimal>4.3333</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508543</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany and Under</Name>
+						<Outcome>
+							<Id>103</Id>
+							<Name>Home and Under</Name>
+						</Outcome>
+						<Numerator>3</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>4.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508544</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw and Over</Name>
+						<Outcome>
+							<Id>104</Id>
+							<Name>Draw and Over</Name>
+						</Outcome>
+						<Numerator>9</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>5.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508545</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw and Under</Name>
+						<Outcome>
+							<Id>105</Id>
+							<Name>Draw and Under</Name>
+						</Outcome>
+						<Numerator>23</Numerator>
+						<Denominator>10</Denominator>
+						<Decimal>3.3</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508546</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy and Over</Name>
+						<Outcome>
+							<Id>106</Id>
+							<Name>Away and Over</Name>
+						</Outcome>
+						<Numerator>15</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>8.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508547</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy and Under</Name>
+						<Outcome>
+							<Id>107</Id>
+							<Name>Away and Under</Name>
+						</Outcome>
+						<Numerator>11</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>6.5</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

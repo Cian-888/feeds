@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>28e336d1-5040-4dbc-a2a3-b72b68747cee</MessageGuid>
+		<TimeStampUtc>2016-06-27T20:43:07.0078166Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100654077</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>2nd Half Result</Name>
+				<ExpiryUtc>2016-07-02T19:00:00</ExpiryUtc>
+				<MarketType>
+					<Id>7591</Id>
+					<Name>2nd Half Result</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302267287</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Outcome>
+							<Id>1</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>6</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>2.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267288</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw</Name>
+						<Outcome>
+							<Id>2</Id>
+							<Name>Draw</Name>
+						</Outcome>
+						<Numerator>23</Numerator>
+						<Denominator>20</Denominator>
+						<Decimal>2.15</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267289</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Outcome>
+							<Id>3</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>3</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>4</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

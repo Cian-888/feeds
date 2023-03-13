@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>9d227d60-d40b-4d45-a5ed-59f957d525cb</MessageGuid>
+		<TimeStampUtc>2016-06-27T19:15:15.2146806Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100654068</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Both Teams To Score</Name>
+				<ExpiryUtc>2016-07-02T19:00:00</ExpiryUtc>
+				<MarketType>
+					<Id>7079</Id>
+					<Name>Both Teams To Score</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302267248</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Yes</Name>
+						<Outcome>
+							<Id>39</Id>
+							<Name>Yes</Name>
+						</Outcome>
+						<Numerator>32</Numerator>
+						<Denominator>25</Denominator>
+						<Decimal>2.28</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267249</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>No</Name>
+						<Outcome>
+							<Id>40</Id>
+							<Name>No</Name>
+						</Outcome>
+						<Numerator>61</Numerator>
+						<Denominator>100</Denominator>
+						<Decimal>1.61</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

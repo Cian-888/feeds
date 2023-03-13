@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>c9f3fe65-03d4-4623-9316-6174d65c9a39</MessageGuid>
+		<TimeStampUtc>2016-07-02T19:46:00.724443Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>159660284</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100710375</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>First Italy GoalScorer</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>7739</Id>
+					<Name>Next Away Team GoalScorer</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302508235</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Barzagli, A</Name>
+						<CompetitorId>93647</CompetitorId>
+						<Numerator>66</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>67.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508239</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Bonucci, L</Name>
+						<CompetitorId>179779</CompetitorId>
+						<Numerator>40</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>41.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508237</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Chiellini, G</Name>
+						<CompetitorId>127291</CompetitorId>
+						<Numerator>40</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>41.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508244</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>De Sciglio, M</Name>
+						<CompetitorId>569486</CompetitorId>
+						<Numerator>50</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>51.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508236</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Eder</Name>
+						<CompetitorId>127224</CompetitorId>
+						<Numerator>15</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>8.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508243</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Florenzi, Alessandro</Name>
+						<CompetitorId>561390</CompetitorId>
+						<Numerator>11</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>12.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508240</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Giaccherini, E</Name>
+						<CompetitorId>464213</CompetitorId>
+						<Numerator>14</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>15.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508241</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Parolo, M</Name>
+						<CompetitorId>464596</CompetitorId>
+						<Numerator>20</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>21.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508238</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Pelle, G</Name>
+						<CompetitorId>138352</CompetitorId>
+						<Numerator>6</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>7.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508242</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Sturaro, S</Name>
+						<CompetitorId>551816</CompetitorId>
+						<Numerator>25</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>26.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508245</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>No GoalScorer</Name>
+						<Outcome>
+							<Id>24</Id>
+							<Name>No GoalScorer</Name>
+						</Outcome>
+						<Numerator>8</Numerator>
+						<Denominator>15</Denominator>
+						<Decimal>1.5333</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

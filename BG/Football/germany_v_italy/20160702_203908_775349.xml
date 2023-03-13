@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>52e714d0-2f9d-4907-ac9b-b5825ff9590a</MessageGuid>
+		<TimeStampUtc>2016-07-02T20:39:08.7120434Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<Fixture>
+		<Id>4046194</Id>
+		<Name>Germany v Italy</Name>
+		<FixtureType>Match</FixtureType>
+		<Status>Scheduled</Status>
+		<StartTimeUtc>2016-07-02T19:00:00Z</StartTimeUtc>
+		<Sport>
+			<Id>10</Id>
+			<Name>Football</Name>
+		</Sport>
+		<Competition>
+			<Id>51</Id>
+			<Name>UEFA European Football Championship</Name>
+			<Region>
+				<Id>6</Id>
+				<Name>Europe</Name>
+			</Region>
+		</Competition>
+		<Season>
+			<Id>29850</Id>
+			<Name>UEFA European Football Championship 2016</Name>
+		</Season>
+		<Round>
+			<Id>276216</Id>
+			<Name>Quarterfinals</Name>
+		</Round>
+		<Competitors>
+			<Competitor>
+				<Id>10035</Id>
+				<Name>Germany</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors>
+					<Competitor>
+						<Id>90266</Id>
+						<Name>Schweinsteiger, B</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Bastian</FirstName>
+						<LastName>Schweinsteiger</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>89497</Id>
+						<Name>Podolski, L</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Lukas</FirstName>
+						<LastName>Podolski</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>3070</Id>
+						<Name>Khedira, S</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Sami</FirstName>
+						<LastName>Khedira</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>745</Id>
+						<Name>Gomez, M</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Mario</FirstName>
+						<LastName>Gomez</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>126526</Id>
+						<Name>Ozil, M</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Mesut</FirstName>
+						<LastName>Ozil</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>126515</Id>
+						<Name>Neuer, M</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Manuel</FirstName>
+						<LastName>Neuer</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>126480</Id>
+						<Name>Boateng, J</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Jerome</FirstName>
+						<LastName>Boateng</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>442622</Id>
+						<Name>Muller, T</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Thomas</FirstName>
+						<LastName>Muller</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>126307</Id>
+						<Name>Kroos, T</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Toni</FirstName>
+						<LastName>Kroos</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>2107</Id>
+						<Name>Hummels, M</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Mats</FirstName>
+						<LastName>Hummels</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>512405</Id>
+						<Name>Gotze, M</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Mario</FirstName>
+						<LastName>Gotze</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>499846</Id>
+						<Name>Schurrle, A</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Andre</FirstName>
+						<LastName>Schurrle</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>126523</Id>
+						<Name>Howedes, B</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Benedikt</FirstName>
+						<LastName>Howedes</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>505394</Id>
+						<Name>ter Stegen, MA</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Marc-Andre</FirstName>
+						<LastName>ter Stegen</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>552209</Id>
+						<Name>Draxler, J</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Julian</FirstName>
+						<LastName>Draxler</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>501014</Id>
+						<Name>Mustafi, S</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Shkodran</FirstName>
+						<LastName>Mustafi</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>588416</Id>
+						<Name>Hector, J</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Jonas</FirstName>
+						<LastName>Hector</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>571054</Id>
+						<Name>Can, E</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Emre</FirstName>
+						<LastName>Can</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>537045</Id>
+						<Name>Leno, B</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Bernd</FirstName>
+						<LastName>Leno</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>777682</Id>
+						<Name>Sane, Leroy</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Leroy</FirstName>
+						<LastName>Sane</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>754624</Id>
+						<Name>Tah, J</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Jonathan</FirstName>
+						<LastName>Glao Tah</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>802152</Id>
+						<Name>Weigl, J</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Julian</FirstName>
+						<LastName>Weigl</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>794603</Id>
+						<Name>Kimmich, J</Name>
+						<HomeAway>Home</HomeAway>
+						<Competitors />
+						<FirstName>Joshua</FirstName>
+						<LastName>Kimmich</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+				</Competitors>
+				<CompetitorType>Team</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>90266</Id>
+				<Name>Schweinsteiger, B</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Bastian</FirstName>
+				<LastName>Schweinsteiger</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>89497</Id>
+				<Name>Podolski, L</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Lukas</FirstName>
+				<LastName>Podolski</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>3070</Id>
+				<Name>Khedira, S</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Sami</FirstName>
+				<LastName>Khedira</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>745</Id>
+				<Name>Gomez, M</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Mario</FirstName>
+				<LastName>Gomez</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>126526</Id>
+				<Name>Ozil, M</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Mesut</FirstName>
+				<LastName>Ozil</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>126515</Id>
+				<Name>Neuer, M</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Manuel</FirstName>
+				<LastName>Neuer</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>126480</Id>
+				<Name>Boateng, J</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Jerome</FirstName>
+				<LastName>Boateng</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>442622</Id>
+				<Name>Muller, T</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Thomas</FirstName>
+				<LastName>Muller</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>126307</Id>
+				<Name>Kroos, T</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Toni</FirstName>
+				<LastName>Kroos</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>2107</Id>
+				<Name>Hummels, M</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Mats</FirstName>
+				<LastName>Hummels</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>512405</Id>
+				<Name>Gotze, M</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Mario</FirstName>
+				<LastName>Gotze</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>499846</Id>
+				<Name>Schurrle, A</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Andre</FirstName>
+				<LastName>Schurrle</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>126523</Id>
+				<Name>Howedes, B</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Benedikt</FirstName>
+				<LastName>Howedes</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>505394</Id>
+				<Name>ter Stegen, MA</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Marc-Andre</FirstName>
+				<LastName>ter Stegen</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>552209</Id>
+				<Name>Draxler, J</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Julian</FirstName>
+				<LastName>Draxler</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>501014</Id>
+				<Name>Mustafi, S</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Shkodran</FirstName>
+				<LastName>Mustafi</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>588416</Id>
+				<Name>Hector, J</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Jonas</FirstName>
+				<LastName>Hector</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>571054</Id>
+				<Name>Can, E</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Emre</FirstName>
+				<LastName>Can</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>537045</Id>
+				<Name>Leno, B</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Bernd</FirstName>
+				<LastName>Leno</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>777682</Id>
+				<Name>Sane, Leroy</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Leroy</FirstName>
+				<LastName>Sane</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>754624</Id>
+				<Name>Tah, J</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Jonathan</FirstName>
+				<LastName>Glao Tah</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>802152</Id>
+				<Name>Weigl, J</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Julian</FirstName>
+				<LastName>Weigl</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>794603</Id>
+				<Name>Kimmich, J</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Joshua</FirstName>
+				<LastName>Kimmich</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>10052</Id>
+				<Name>Italy</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors>
+					<Competitor>
+						<Id>112563</Id>
+						<Name>Buffon, G</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Gianluigi</FirstName>
+						<LastName>Buffon</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>93647</Id>
+						<Name>Barzagli, A</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Andrea</FirstName>
+						<LastName>Barzagli</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>1343</Id>
+						<Name>De Rossi, D</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Daniele</FirstName>
+						<LastName>De Rossi</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>127291</Id>
+						<Name>Chiellini, G</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Giorgio</FirstName>
+						<LastName>Chiellini</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>178747</Id>
+						<Name>Marchetti, F</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Federico</FirstName>
+						<LastName>Marchetti</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>127477</Id>
+						<Name>Candreva, A</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Antonio</FirstName>
+						<LastName>Candreva</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>181633</Id>
+						<Name>Sirigu, S</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Salvatore</FirstName>
+						<LastName>Sirigu</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>179779</Id>
+						<Name>Bonucci, L</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Leonardo</FirstName>
+						<LastName>Bonucci</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>86983</Id>
+						<Name>Motta, T</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Thiago</FirstName>
+						<LastName>Motta</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>464596</Id>
+						<Name>Parolo, M</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Marco</FirstName>
+						<LastName>Parolo</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>3148</Id>
+						<Name>Ogbonna, A</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Angelo</FirstName>
+						<LastName>Ogbonna</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>464213</Id>
+						<Name>Giaccherini, E</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Emanuele</FirstName>
+						<LastName>Giaccherini</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>518986</Id>
+						<Name>Insigne, L</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Lorenzo</FirstName>
+						<LastName>Insigne</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>561390</Id>
+						<Name>Florenzi, Alessandro</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Alessandro</FirstName>
+						<LastName>Florenzi</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>475880</Id>
+						<Name>Immobile, C</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Ciro</FirstName>
+						<LastName>Immobile</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>127329</Id>
+						<Name>Darmian, M</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Matteo</FirstName>
+						<LastName>Darmian</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>473487</Id>
+						<Name>Zaza, S</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Simone</FirstName>
+						<LastName>Zaza</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>138352</Id>
+						<Name>Pelle, G</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Graziano</FirstName>
+						<LastName>Pelle</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>127224</Id>
+						<Name>Eder</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Eder</FirstName>
+						<LastName>Citadin Martins</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>569486</Id>
+						<Name>De Sciglio, M</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Mattia</FirstName>
+						<LastName>De Sciglio</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>466077</Id>
+						<Name>El Shaarawy, S</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Stephan</FirstName>
+						<LastName>El Shaarawy</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>728725</Id>
+						<Name>Bernardeschi, F</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Federico</FirstName>
+						<LastName>Bernardeschi</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+					<Competitor>
+						<Id>551816</Id>
+						<Name>Sturaro, S</Name>
+						<HomeAway>Away</HomeAway>
+						<Competitors />
+						<FirstName>Stefano</FirstName>
+						<LastName>Sturaro</LastName>
+						<CompetitorType>Person</CompetitorType>
+					</Competitor>
+				</Competitors>
+				<CompetitorType>Team</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>112563</Id>
+				<Name>Buffon, G</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Gianluigi</FirstName>
+				<LastName>Buffon</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>93647</Id>
+				<Name>Barzagli, A</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Andrea</FirstName>
+				<LastName>Barzagli</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>1343</Id>
+				<Name>De Rossi, D</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Daniele</FirstName>
+				<LastName>De Rossi</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>127291</Id>
+				<Name>Chiellini, G</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Giorgio</FirstName>
+				<LastName>Chiellini</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>178747</Id>
+				<Name>Marchetti, F</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Federico</FirstName>
+				<LastName>Marchetti</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>127477</Id>
+				<Name>Candreva, A</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Antonio</FirstName>
+				<LastName>Candreva</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>181633</Id>
+				<Name>Sirigu, S</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Salvatore</FirstName>
+				<LastName>Sirigu</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>179779</Id>
+				<Name>Bonucci, L</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Leonardo</FirstName>
+				<LastName>Bonucci</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>86983</Id>
+				<Name>Motta, T</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Thiago</FirstName>
+				<LastName>Motta</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>464596</Id>
+				<Name>Parolo, M</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Marco</FirstName>
+				<LastName>Parolo</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>3148</Id>
+				<Name>Ogbonna, A</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Angelo</FirstName>
+				<LastName>Ogbonna</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>464213</Id>
+				<Name>Giaccherini, E</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Emanuele</FirstName>
+				<LastName>Giaccherini</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>518986</Id>
+				<Name>Insigne, L</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Lorenzo</FirstName>
+				<LastName>Insigne</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>561390</Id>
+				<Name>Florenzi, Alessandro</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Alessandro</FirstName>
+				<LastName>Florenzi</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>475880</Id>
+				<Name>Immobile, C</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Ciro</FirstName>
+				<LastName>Immobile</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>127329</Id>
+				<Name>Darmian, M</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Matteo</FirstName>
+				<LastName>Darmian</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>473487</Id>
+				<Name>Zaza, S</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Simone</FirstName>
+				<LastName>Zaza</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>138352</Id>
+				<Name>Pelle, G</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Graziano</FirstName>
+				<LastName>Pelle</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>127224</Id>
+				<Name>Eder</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Eder</FirstName>
+				<LastName>Citadin Martins</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>569486</Id>
+				<Name>De Sciglio, M</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Mattia</FirstName>
+				<LastName>De Sciglio</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>466077</Id>
+				<Name>El Shaarawy, S</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Stephan</FirstName>
+				<LastName>El Shaarawy</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>728725</Id>
+				<Name>Bernardeschi, F</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Federico</FirstName>
+				<LastName>Bernardeschi</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>551816</Id>
+				<Name>Sturaro, S</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Stefano</FirstName>
+				<LastName>Sturaro</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+		</Competitors>
+	</Fixture>
+</Updategram>

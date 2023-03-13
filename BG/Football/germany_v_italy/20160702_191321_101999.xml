@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>830bb11e-7d75-481a-9ebd-4ea8da716cd4</MessageGuid>
+		<TimeStampUtc>2016-07-02T19:13:20.9508612Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>159660070</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100710382</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>First Germany GoalScorer</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>10523</Id>
+					<Name>Next Home Team GoalScorer</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302508301</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Boateng, J</Name>
+						<CompetitorId>126480</CompetitorId>
+						<Numerator>33</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>34.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508297</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Gomez, M</Name>
+						<CompetitorId>745</CompetitorId>
+						<Numerator>10</Numerator>
+						<Denominator>3</Denominator>
+						<Decimal>4.3333</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508305</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Hector, J</Name>
+						<CompetitorId>588416</CompetitorId>
+						<Numerator>28</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>29.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508302</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Howedes, B</Name>
+						<CompetitorId>126523</CompetitorId>
+						<Numerator>28</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>29.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508298</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Hummels, M</Name>
+						<CompetitorId>2107</CompetitorId>
+						<Numerator>22</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>23.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508299</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Khedira, S</Name>
+						<CompetitorId>3070</CompetitorId>
+						<Numerator>14</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>15.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508306</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Kimmich, J</Name>
+						<CompetitorId>794603</CompetitorId>
+						<Numerator>25</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>26.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508300</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Kroos, T</Name>
+						<CompetitorId>126307</CompetitorId>
+						<Numerator>11</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>12.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508304</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Muller, T</Name>
+						<CompetitorId>442622</CompetitorId>
+						<Numerator>3</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>4.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508303</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Ozil, M</Name>
+						<CompetitorId>126526</CompetitorId>
+						<Numerator>13</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>7.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508307</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>No GoalScorer</Name>
+						<Outcome>
+							<Id>24</Id>
+							<Name>No GoalScorer</Name>
+						</Outcome>
+						<Numerator>2</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>3.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

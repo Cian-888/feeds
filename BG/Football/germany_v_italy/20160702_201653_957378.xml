@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>7d26907a-748a-42bf-85f4-180859fd50d5</MessageGuid>
+		<TimeStampUtc>2016-07-02T20:16:53.8355036Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>159660382</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100654083</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Italy To Win To Nil</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>8864</Id>
+					<Name>Away Team To Win To Nil</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302267324</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Yes</Name>
+						<Outcome>
+							<Id>39</Id>
+							<Name>Yes</Name>
+						</Outcome>
+						<Numerator>5</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>6.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267325</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>No</Name>
+						<Outcome>
+							<Id>40</Id>
+							<Name>No</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>9</Denominator>
+						<Decimal>1.1111</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

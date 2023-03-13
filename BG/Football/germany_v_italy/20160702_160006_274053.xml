@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>3f98a20b-4729-4189-9582-f28db817f5c6</MessageGuid>
+		<TimeStampUtc>2016-07-02T16:00:06.1969681Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100654084</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Half-time Odd or Even Total</Name>
+				<ExpiryUtc>2016-07-02T19:00:00</ExpiryUtc>
+				<MarketType>
+					<Id>9535</Id>
+					<Name>Half-time Odd or Even Total</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302267326</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Even</Name>
+						<Outcome>
+							<Id>32</Id>
+							<Name>Even</Name>
+						</Outcome>
+						<Numerator>3</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>1.6</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267327</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Odd</Name>
+						<Outcome>
+							<Id>33</Id>
+							<Name>Odd</Name>
+						</Outcome>
+						<Numerator>6</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>2.2</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

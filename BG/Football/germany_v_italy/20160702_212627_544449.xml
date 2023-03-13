@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>039a98e8-8a51-4988-85a5-9b3d392f942b</MessageGuid>
+		<TimeStampUtc>2016-07-02T21:26:27.469023Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>159660797</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100710371</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>How Will the Tie Be Decided</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>6497</Id>
+					<Name>How Will the Tie Be Decided</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302508185</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Germany in 90 Minutes</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Outcome>
+							<Id>75</Id>
+							<Name>Home in 90 Minutes</Name>
+						</Outcome>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508186</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany in Extra Time</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Outcome>
+							<Id>76</Id>
+							<Name>Home in Extra Time</Name>
+						</Outcome>
+						<Numerator>7</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>8.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508187</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany on Penalties</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Outcome>
+							<Id>77</Id>
+							<Name>Home on Penalties</Name>
+						</Outcome>
+						<Numerator>6</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>2.2</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508188</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Italy in 90 Minutes</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Outcome>
+							<Id>78</Id>
+							<Name>Away in 90 Minutes</Name>
+						</Outcome>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508189</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy in Extra Time</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Outcome>
+							<Id>79</Id>
+							<Name>Away in Extra Time</Name>
+						</Outcome>
+						<Numerator>14</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>15.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508190</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy on Penalties</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Outcome>
+							<Id>80</Id>
+							<Name>Away on Penalties</Name>
+						</Outcome>
+						<Numerator>6</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>2.2</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100710383</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>To Qualify</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>10546</Id>
+					<Name>To Qualify</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302508308</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Outcome>
+							<Id>1</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>4</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>1.8</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508309</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Outcome>
+							<Id>3</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>10</Numerator>
+						<Denominator>11</Denominator>
+						<Decimal>1.9091</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100711136</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Extra Time Result</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>10982</Id>
+					<Name>Extra Time Result (excluding normal time goals)</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302511517</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany</Name>
+						<CompetitorId>10035</CompetitorId>
+						<Outcome>
+							<Id>1</Id>
+							<Name>Home</Name>
+						</Outcome>
+						<Numerator>7</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>8.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511518</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw</Name>
+						<Outcome>
+							<Id>2</Id>
+							<Name>Draw</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>7</Denominator>
+						<Decimal>1.1429</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302511519</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy</Name>
+						<CompetitorId>10052</CompetitorId>
+						<Outcome>
+							<Id>3</Id>
+							<Name>Away</Name>
+						</Outcome>
+						<Numerator>14</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>15.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

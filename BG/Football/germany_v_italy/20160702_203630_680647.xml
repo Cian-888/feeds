@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>7f2b2458-43e7-45e4-853c-66182bd39668</MessageGuid>
+		<TimeStampUtc>2016-07-02T20:36:30.5715424Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>159660535</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100710476</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Suspended</TradingStatus>
+				<Name>Match Result and Total Goals Over / Under 1.50</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<Handicap>1.5</Handicap>
+				<MarketType>
+					<Id>8239</Id>
+					<Name>Match Result and Total Goals Over/Under</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302508542</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany and Over</Name>
+						<Outcome>
+							<Id>102</Id>
+							<Name>Home and Over</Name>
+						</Outcome>
+						<Numerator>19</Numerator>
+						<Denominator>10</Denominator>
+						<Decimal>2.9</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508543</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany and Under</Name>
+						<Outcome>
+							<Id>103</Id>
+							<Name>Home and Under</Name>
+						</Outcome>
+						<Numerator>6</Numerator>
+						<Denominator>10</Denominator>
+						<Decimal>1.6</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508544</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw and Over</Name>
+						<Outcome>
+							<Id>104</Id>
+							<Name>Draw and Over</Name>
+						</Outcome>
+						<Numerator>6</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>7.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508545</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Draw and Under</Name>
+						<Outcome>
+							<Id>105</Id>
+							<Name>Draw and Under</Name>
+						</Outcome>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508546</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy and Over</Name>
+						<Outcome>
+							<Id>106</Id>
+							<Name>Away and Over</Name>
+						</Outcome>
+						<Numerator>50</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>51.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508547</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Italy and Under</Name>
+						<Outcome>
+							<Id>107</Id>
+							<Name>Away and Under</Name>
+						</Outcome>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100710378</Id>
+				<Sequence>1</Sequence>
+				<TradingStatus>Suspended</TradingStatus>
+				<Name>Second Germany Goal Time</Name>
+				<ExpiryUtc>2016-07-02T19:00:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>8683</Id>
+					<Name>Next Home Goal Time</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302508264</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>21-30</Name>
+						<Range>
+							<High>30.00</High>
+							<Low>21.00</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508265</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>31-40</Name>
+						<Range>
+							<High>40.00</High>
+							<Low>31.00</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508266</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>41-50</Name>
+						<Range>
+							<High>50.00</High>
+							<Low>41.00</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508267</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>51-60</Name>
+						<Range>
+							<High>60.00</High>
+							<Low>51.00</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508268</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>61-70</Name>
+						<Range>
+							<High>70.0</High>
+							<Low>61.0</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508269</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>71-80</Name>
+						<Range>
+							<High>80.0</High>
+							<Low>71.0</Low>
+						</Range>
+						<Numerator>10</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>11.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508270</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>81-90</Name>
+						<Range>
+							<High>90.0</High>
+							<Low>81.0</Low>
+						</Range>
+						<Numerator>13</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>3.6</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302508271</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>No Goal</Name>
+						<Outcome>
+							<Id>21</Id>
+							<Name>No Goal</Name>
+						</Outcome>
+						<Numerator>4</Numerator>
+						<Denominator>11</Denominator>
+						<Decimal>1.3636</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

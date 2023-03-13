@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>6e2d96ea-c732-44fb-9eca-a4f3dadd326f</MessageGuid>
+		<TimeStampUtc>2016-07-02T14:23:01.9255932Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>4046194</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100654090</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Match Result and Both Teams To Score</Name>
+				<ExpiryUtc>2016-07-02T19:00:00</ExpiryUtc>
+				<MarketType>
+					<Id>12381</Id>
+					<Name>Match Result and Both Teams To Score</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302267339</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany and Yes</Name>
+						<Outcome>
+							<Id>108</Id>
+							<Name>Home and Yes</Name>
+						</Outcome>
+						<Numerator>9</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>5.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267340</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Germany and No</Name>
+						<Outcome>
+							<Id>109</Id>
+							<Name>Home and No</Name>
+						</Outcome>
+						<Numerator>9</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>3.25</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267341</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw and Yes</Name>
+						<Outcome>
+							<Id>110</Id>
+							<Name>Draw and Yes</Name>
+						</Outcome>
+						<Numerator>7</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>4.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267342</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Draw and No</Name>
+						<Outcome>
+							<Id>111</Id>
+							<Name>Draw and No</Name>
+						</Outcome>
+						<Numerator>11</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>6.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267343</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy and Yes</Name>
+						<Outcome>
+							<Id>112</Id>
+							<Name>Away and Yes</Name>
+						</Outcome>
+						<Numerator>15</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>8.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302267344</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Italy and No</Name>
+						<Outcome>
+							<Id>113</Id>
+							<Name>Away and No</Name>
+						</Outcome>
+						<Numerator>9</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>5.5</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>
