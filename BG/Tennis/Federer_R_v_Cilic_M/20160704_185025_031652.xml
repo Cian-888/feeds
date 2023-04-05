@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>9fec6ece-bc0a-4274-9df7-754593fc23fa</MessageGuid>
+		<TimeStampUtc>2016-07-04T18:50:24.9724127Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>3221673</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100728578</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Set Betting</Name>
+				<ExpiryUtc>2016-07-06T10:15:00</ExpiryUtc>
+				<MarketType>
+					<Id>120</Id>
+					<Name>Set Betting</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302588906</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Federer, R 3-0</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Range>
+							<High>0.00</High>
+							<Low>3.00</Low>
+						</Range>
+						<Numerator>6</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>2.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302588907</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Federer, R 3-1</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Range>
+							<High>1.00</High>
+							<Low>3.00</Low>
+						</Range>
+						<Numerator>5</Numerator>
+						<Denominator>2</Denominator>
+						<Decimal>3.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302588908</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Federer, R 3-2</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Range>
+							<High>2.00</High>
+							<Low>3.00</Low>
+						</Range>
+						<Numerator>5</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>6</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302588903</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cilic, M 3-0</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Range>
+							<High>3.00</High>
+							<Low>0.00</Low>
+						</Range>
+						<Numerator>9</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>10</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302588904</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cilic, M 3-1</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Range>
+							<High>3.00</High>
+							<Low>1.00</Low>
+						</Range>
+						<Numerator>7</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>8</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302588905</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cilic, M 3-2</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Range>
+							<High>3.00</High>
+							<Low>2.00</Low>
+						</Range>
+						<Numerator>7</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>8</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

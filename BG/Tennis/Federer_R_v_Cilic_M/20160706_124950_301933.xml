@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>f5e2184e-ec13-4706-ac40-624c53fea640</MessageGuid>
+		<TimeStampUtc>2016-07-06T12:49:50.1580924Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>162867127</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>3221673</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100747579</Id>
+				<Sequence>1</Sequence>
+				<TradingStatus>Suspended</TradingStatus>
+				<Name>Set Winner (Set 1)</Name>
+				<ExpiryUtc>2016-07-06T12:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>11098</Id>
+					<Name>Numbered Set Winner</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302667292</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Federer, R</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Outcome>
+							<Id>25</Id>
+							<Name>Player 1</Name>
+						</Outcome>
+						<Numerator>20</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>21.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302667293</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cilic, M</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Outcome>
+							<Id>26</Id>
+							<Name>Player 2</Name>
+						</Outcome>
+						<Numerator>1</Numerator>
+						<Denominator>50</Denominator>
+						<Decimal>1.02</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

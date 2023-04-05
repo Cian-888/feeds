@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>6d257fe6-5232-4716-8f8f-0fbf4311896d</MessageGuid>
+		<TimeStampUtc>2016-07-06T12:03:59.106514Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>3221673</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100728583</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Total Sets</Name>
+				<ExpiryUtc>2016-07-06T12:05:00</ExpiryUtc>
+				<MarketType>
+					<Id>7171</Id>
+					<Name>Total Sets</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302588929</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>3 Sets</Name>
+						<Range>
+							<High>3.00</High>
+							<Low>3.00</Low>
+						</Range>
+						<Numerator>11</Numerator>
+						<Denominator>10</Denominator>
+						<Decimal>2.1</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302588930</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>4 Sets</Name>
+						<Range>
+							<High>4.00</High>
+							<Low>4.00</Low>
+						</Range>
+						<Numerator>6</Numerator>
+						<Denominator>4</Denominator>
+						<Decimal>2.5</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302588931</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>5 Sets</Name>
+						<Range>
+							<High>5.00</High>
+							<Low>5.00</Low>
+						</Range>
+						<Numerator>3</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>4</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

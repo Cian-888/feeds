@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>8bbbbdb9-0d87-40cb-ab3c-cf1ce68053d6</MessageGuid>
+		<TimeStampUtc>2016-07-04T17:03:54.9506158Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<MarketSet>
+		<FixtureId>3221673</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100728581</Id>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Second Set Winner</Name>
+				<ExpiryUtc>2016-07-06T10:15:00</ExpiryUtc>
+				<MarketType>
+					<Id>6599</Id>
+					<Name>Second Set Winner</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>false</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302588913</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Federer, R</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Outcome>
+							<Id>25</Id>
+							<Name>Player 1</Name>
+						</Outcome>
+						<Numerator>11</Numerator>
+						<Denominator>25</Denominator>
+						<Decimal>1.44</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302588914</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cilic, M</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Outcome>
+							<Id>26</Id>
+							<Name>Player 2</Name>
+						</Outcome>
+						<Numerator>8</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>2.6</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

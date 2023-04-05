@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>d1396094-c401-4e91-9c1f-ee37de4fe27e</MessageGuid>
+		<TimeStampUtc>2016-07-06T15:16:02.2171924Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>162867519</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>3221673</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100728579</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Match Result</Name>
+				<ExpiryUtc>2016-07-06T12:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>322</Id>
+					<Name>Match</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302588909</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Federer, R</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Outcome>
+							<Id>25</Id>
+							<Name>Player 1</Name>
+						</Outcome>
+						<Numerator>8</Numerator>
+						<Denominator>15</Denominator>
+						<Decimal>1.5333</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302588910</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cilic, M</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Outcome>
+							<Id>26</Id>
+							<Name>Player 2</Name>
+						</Outcome>
+						<Numerator>11</Numerator>
+						<Denominator>8</Denominator>
+						<Decimal>2.375</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100747589</Id>
+				<Sequence>5</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Set Game Handicap (Set 5) +1.5</Name>
+				<ExpiryUtc>2016-07-06T12:05:00Z</ExpiryUtc>
+				<Handicap>1.5</Handicap>
+				<MarketType>
+					<Id>11634</Id>
+					<Name>Numbered Set Game Handicap</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302667330</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Federer, R</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Outcome>
+							<Id>25</Id>
+							<Name>Player 1</Name>
+						</Outcome>
+						<Numerator>8</Numerator>
+						<Denominator>15</Denominator>
+						<Decimal>1.5333</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302667331</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cilic, M</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Outcome>
+							<Id>26</Id>
+							<Name>Player 2</Name>
+						</Outcome>
+						<Numerator>11</Numerator>
+						<Denominator>8</Denominator>
+						<Decimal>2.375</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100747858</Id>
+				<Sequence>0</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Handicap Games +0.5</Name>
+				<ExpiryUtc>2016-07-06T12:05:00Z</ExpiryUtc>
+				<Handicap>0.5</Handicap>
+				<MarketType>
+					<Id>311</Id>
+					<Name>Game Handicap</Name>
+					<IsHandicap>true</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302668344</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Federer, R</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Outcome>
+							<Id>25</Id>
+							<Name>Player 1</Name>
+						</Outcome>
+						<Numerator>8</Numerator>
+						<Denominator>15</Denominator>
+						<Decimal>1.5333</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302668345</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cilic, M</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Outcome>
+							<Id>26</Id>
+							<Name>Player 2</Name>
+						</Outcome>
+						<Numerator>11</Numerator>
+						<Denominator>8</Denominator>
+						<Decimal>2.375</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100747585</Id>
+				<Sequence>2008005</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Point Winner (Set 5, Game 8, Point 2)</Name>
+				<ExpiryUtc>2016-07-06T12:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>11340</Id>
+					<Name>Numbered Service Game Point Winner (Set Number, Game Number, Point Number)</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302667322</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Federer, R</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Outcome>
+							<Id>25</Id>
+							<Name>Player 1</Name>
+						</Outcome>
+						<Numerator>89</Numerator>
+						<Denominator>50</Denominator>
+						<Decimal>2.78</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302667323</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cilic, M</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Outcome>
+							<Id>26</Id>
+							<Name>Player 2</Name>
+						</Outcome>
+						<Numerator>9</Numerator>
+						<Denominator>20</Denominator>
+						<Decimal>1.45</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100747581</Id>
+				<Sequence>52</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Game Score (Game 52)</Name>
+				<ExpiryUtc>2016-07-06T12:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>11103</Id>
+					<Name>Numbered Game Score</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302667312</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Federer, R to 0</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Range>
+							<High>0.0</High>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302667313</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Federer, R to 15</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Range>
+							<High>15.0</High>
+						</Range>
+						<Numerator>29</Numerator>
+						<Denominator>20</Denominator>
+						<Decimal>2.45</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302667314</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Federer, R to 30</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Range>
+							<High>30.0</High>
+						</Range>
+						<Numerator>9</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>2.8</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302667315</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Federer, R to 40</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Range>
+							<High>40.0</High>
+						</Range>
+						<Numerator>14</Numerator>
+						<Denominator>5</Denominator>
+						<Decimal>3.8</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302667308</Id>
+						<TradingStatus>Suspended</TradingStatus>
+						<Name>Cilic, M to 0</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Range>
+							<Low>0.0</Low>
+						</Range>
+						<Numerator>0</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>1.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302667309</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cilic, M to 15</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Range>
+							<Low>15.0</Low>
+						</Range>
+						<Numerator>20</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>21.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302667310</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cilic, M to 30</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Range>
+							<Low>30.0</Low>
+						</Range>
+						<Numerator>12</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>13.0</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302667311</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cilic, M to 40</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Range>
+							<Low>40.0</Low>
+						</Range>
+						<Numerator>16</Numerator>
+						<Denominator>1</Denominator>
+						<Decimal>17.0</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100747583</Id>
+				<Sequence>8005</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Will Game Go To Deuce? (Set 5, Game 8)</Name>
+				<ExpiryUtc>2016-07-06T12:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>11156</Id>
+					<Name>Will Numbered Service Game Go To Deuce? (Set Number, Game Number)</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302667318</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Yes</Name>
+						<Outcome>
+							<Id>39</Id>
+							<Name>Yes</Name>
+						</Outcome>
+						<Numerator>31</Numerator>
+						<Denominator>10</Denominator>
+						<Decimal>4.1</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302667319</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>No</Name>
+						<Outcome>
+							<Id>40</Id>
+							<Name>No</Name>
+						</Outcome>
+						<Numerator>6</Numerator>
+						<Denominator>25</Denominator>
+						<Decimal>1.24</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

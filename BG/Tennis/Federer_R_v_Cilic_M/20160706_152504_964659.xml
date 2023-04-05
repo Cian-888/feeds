@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>1a9e6328-27e5-48b2-8416-2a7034bdee24</MessageGuid>
+		<TimeStampUtc>2016-07-06T15:25:04.8573889Z</TimeStampUtc>
+		<Retry>0</Retry>
+		<MessageFixtureOrder>162867543</MessageFixtureOrder>
+	</Header>
+	<MarketSet>
+		<FixtureId>3221673</FixtureId>
+		<Markets>
+			<Market>
+				<Id>100747585</Id>
+				<Sequence>4009005</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Point Winner (Set 5, Game 9, Point 4)</Name>
+				<ExpiryUtc>2016-07-06T12:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>11340</Id>
+					<Name>Numbered Service Game Point Winner (Set Number, Game Number, Point Number)</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302667322</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Federer, R</Name>
+						<CompetitorId>103629</CompetitorId>
+						<Outcome>
+							<Id>25</Id>
+							<Name>Player 1</Name>
+						</Outcome>
+						<Numerator>17</Numerator>
+						<Denominator>50</Denominator>
+						<Decimal>1.34</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302667323</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Cilic, M</Name>
+						<CompetitorId>102441</CompetitorId>
+						<Outcome>
+							<Id>26</Id>
+							<Name>Player 2</Name>
+						</Outcome>
+						<Numerator>229</Numerator>
+						<Denominator>100</Denominator>
+						<Decimal>3.29</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+			<Market>
+				<Id>100747583</Id>
+				<Sequence>9005</Sequence>
+				<TradingStatus>Open</TradingStatus>
+				<Name>Will Game Go To Deuce? (Set 5, Game 9)</Name>
+				<ExpiryUtc>2016-07-06T12:05:00Z</ExpiryUtc>
+				<MarketType>
+					<Id>11156</Id>
+					<Name>Will Numbered Service Game Go To Deuce? (Set Number, Game Number)</Name>
+					<IsHandicap>false</IsHandicap>
+				</MarketType>
+				<InPlay>true</InPlay>
+				<Selections>
+					<Selection>
+						<Id>302667318</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>Yes</Name>
+						<Outcome>
+							<Id>39</Id>
+							<Name>Yes</Name>
+						</Outcome>
+						<Numerator>57</Numerator>
+						<Denominator>10</Denominator>
+						<Decimal>6.7</Decimal>
+					</Selection>
+					<Selection>
+						<Id>302667319</Id>
+						<TradingStatus>Trading</TradingStatus>
+						<Name>No</Name>
+						<Outcome>
+							<Id>40</Id>
+							<Name>No</Name>
+						</Outcome>
+						<Numerator>11</Numerator>
+						<Denominator>100</Denominator>
+						<Decimal>1.11</Decimal>
+					</Selection>
+				</Selections>
+			</Market>
+		</Markets>
+	</MarketSet>
+</Updategram>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updategram xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.sportsdataservices.com/integrationService/v3">
+	<Header>
+		<MessageGuid>112a9e08-7a7f-4f97-9a01-41f6c0b83fce</MessageGuid>
+		<TimeStampUtc>2016-07-06T09:50:37.2413105Z</TimeStampUtc>
+		<Retry>0</Retry>
+	</Header>
+	<Fixture>
+		<Id>3221673</Id>
+		<Name>Federer, R v Cilic, M</Name>
+		<FixtureType>Match</FixtureType>
+		<Status>Scheduled</Status>
+		<StartTimeUtc>2016-07-06T12:05:00Z</StartTimeUtc>
+		<Sport>
+			<Id>24</Id>
+			<Name>Tennis</Name>
+		</Sport>
+		<Competition>
+			<Id>365</Id>
+			<Name>Wimbledon Men's Singles</Name>
+			<Region>
+				<Id>3795032</Id>
+				<Name>England</Name>
+			</Region>
+		</Competition>
+		<Season>
+			<Id>46764</Id>
+			<Name>Wimbledon Men's Singles 2016</Name>
+		</Season>
+		<TourSeason>
+			<Id>49680</Id>
+			<Name>ATP Tour 2016</Name>
+		</TourSeason>
+		<Round>
+			<Id>225240</Id>
+			<Name>Quarterfinals</Name>
+		</Round>
+		<Competitors>
+			<Competitor>
+				<Id>103629</Id>
+				<Name>Federer, R</Name>
+				<HomeAway>Home</HomeAway>
+				<Competitors />
+				<FirstName>Roger</FirstName>
+				<LastName>Federer</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+			<Competitor>
+				<Id>102441</Id>
+				<Name>Cilic, M</Name>
+				<HomeAway>Away</HomeAway>
+				<Competitors />
+				<FirstName>Marin</FirstName>
+				<LastName>Cilic</LastName>
+				<CompetitorType>Person</CompetitorType>
+			</Competitor>
+		</Competitors>
+	</Fixture>
+</Updategram>
