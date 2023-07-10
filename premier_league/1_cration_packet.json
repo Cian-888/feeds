@@ -1,0 +1,54 @@
+{
+  "Header": {
+    "Type": 36,
+    "MsgGuid": "da9c441f-44a7-4511-975b-e4b49114b53b",
+    "ServerTimestamp": 1600848393805
+  },
+  "Body": [
+    {
+      "Id": 67,
+      "Name": "Premier League",
+      "Type": 3,
+      "Competitions": [
+        {
+          "Id": 2024,
+          "Name": "2020/2021",
+          "Type": 4,
+          "Events": [
+            {
+              "FixtureId": 5706073,
+              "OutrightLeague": {
+                "Subscription": {
+                  "Type": 2,
+                  "Status": 3
+                },
+                "Sport": {
+                  "Id": 6046,
+                  "Name": "Football"
+                },
+                "Location": {
+                  "Id": 243,
+                  "Name": "England"
+                },
+                "LastUpdate": "2020-07-28T11:42:48.301164",
+                "Status": 1,
+                "ExtraData": [
+                  {
+                    "Name": "WithInPlay",
+                    "Value": "false"
+                  },
+                  {
+                    "Name": "WithLivescore",
+                    "Value": "false"
+                  }
+                ]
+              },
+              "Livescore": null,
+              "Markets": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
